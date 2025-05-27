@@ -19,7 +19,7 @@ jobs:
                   github-username: ${{ github.repository_owner }}
                   git-name: Github Action
                   git-email: actions@users.noreply.github.com
-                  git-message: '🔧 chore: update README.md'
+                  git-message: 'chore: update README.md'
                   sort-by: updated
                   template-path: template/template.md
                   output-path: README.md
