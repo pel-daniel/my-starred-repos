@@ -5,6 +5,7 @@ on:
     - cron: "0 0 * * *"
 jobs:
   update-by-list:
+    name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
       - name: Update repo category by list
