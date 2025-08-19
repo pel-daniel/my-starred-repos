@@ -15,6 +15,7 @@ jobs:
           git-email: actions@users.noreply.github.com
           git-message: "docs(list): bump data"
           sort-by: stars
+          style: list
           template-path: .github/templates/by-list.md
           output-path: by-list.md
         env:
