@@ -11,8 +11,6 @@ jobs:
         uses: Frestein/gaze-stars@main
         with:
           github-username: ${{ github.repository_owner }}
-          git-name: Github Action
-          git-email: actions@users.noreply.github.com
           git-message: "docs(list): bump data"
           sort-by: stars
           style: list
