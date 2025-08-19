@@ -8,13 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update repo category by list
-        uses: zhuozhiyongde/gaze-stars@v1.0.2
-        env:
-          TEMPLATE_PATH: ".github/templates/by-list.md"
-          OUTPUT_PATH: "by-list.md"
-          SORT_BY: "stars"
+        uses: Frestein/gaze-stars@main
         with:
-          api-token: ${{ secrets.GITHUB_TOKEN }}
           github-username: ${{ github.repository_owner }}
           git-name: Github Action
           git-email: actions@users.noreply.github.com
@@ -22,3 +17,5 @@ jobs:
           sort-by: stars
           template-path: .github/templates/by-list.md
           output-path: by-list.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
