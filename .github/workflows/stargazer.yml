@@ -1,25 +1,20 @@
-name: Stargazer
-
+name: Update by list
 on:
-    push:
-        branches:
-            - main
-    workflow_dispatch:
-    schedule:
-        - cron: '0 0 * * *'
-
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
-    stargazer:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Stargazer
-              uses: zhuozhiyongde/gaze-stars@v1.0.2
-              with:
-                  api-token: ${{ secrets.API_TOKEN }}
-                  github-username: ${{ github.repository_owner }}
-                  git-name: Github Action
-                  git-email: actions@users.noreply.github.com
-                  git-message: 'docs(README): update stargazed list'
-                  sort-by: updated
-                  template-path: template/template.md
-                  output-path: README.md
+  update-by-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update repo category by list
+        uses: zhuozhiyongde/gaze-stars@v1.0.2
+        with:
+          api-token: ${{ secrets.GITHUB_TOKEN }}
+          github-username: ${{ github.repository_owner }}
+          git-name: Github Action
+          git-email: actions@users.noreply.github.com
+          git-message: "docs(list): bump data"
+          sort-by: stars
+          template-path: .github/templates/by-list.md
+          output-path: by-list.md
