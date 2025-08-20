@@ -208,6 +208,7 @@
 
 ## C++ 
 
+- [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, Wayland Compositor
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
@@ -328,6 +329,7 @@
 
 ## Emacs Lisp 
 
+- [tanrax/org-social.el](https://github.com/tanrax/org-social.el) - Emacs client for Org Social
 - [hron/dock.el](https://github.com/hron/dock.el) - Integrate desktop environment's taskbar/dock with Emacs
 - [hron/org-agenda-dock](https://github.com/hron/org-agenda-dock) - Integrate org-mode with Gnome's Dock or KDE's taskbar
 - [lepisma/org-krita](https://github.com/lepisma/org-krita) - Krita sketches in Org
@@ -764,7 +766,6 @@
 
 ## JavaScript 
 
-- [WakeupNeo33/Anti-AdBlocker-Fuckoff-userscript](https://github.com/WakeupNeo33/Anti-AdBlocker-Fuckoff-userscript) - 
 - [XX-J/Direct-links-out](https://github.com/XX-J/Direct-links-out) - Userscript that removes all this "You are leaving our site..." and other redirection trash from links.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
@@ -1166,6 +1167,7 @@
 
 ## Others 
 
+- [tanrax/org-social](https://github.com/tanrax/org-social) - Org Social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [daanblom/dmenu-inlineprompt](https://github.com/daanblom/dmenu-inlineprompt) - Shows dmenu prompt text as a placeholder
 - [archlinux/aur](https://github.com/archlinux/aur) - ⚠️⚠️Experimental aur.git mirror⚠️⚠️ (read-only mirror)
