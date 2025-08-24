@@ -1457,6 +1457,7 @@
 
 ## linux 
 
+- [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
 - [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [crawraps/widgets-collection](https://github.com/crawraps/widgets-collection) - Collection of pretty desktop widgets
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
@@ -2058,6 +2059,8 @@
 
 ## others 
 
+- [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
+- [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
 - [NetBSD/src](https://github.com/NetBSD/src) - Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.netbsd.org
