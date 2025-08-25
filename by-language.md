@@ -917,7 +917,7 @@
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
-- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project
+- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - An import picker that learns from your codebase
 - [f4z3r/gruvbox-material.nvim](https://github.com/f4z3r/gruvbox-material.nvim) - Material Gruvbox colorscheme for Neovim written in Lua
 - [echasnovski/mini.tabline](https://github.com/echasnovski/mini.tabline) - Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.
 - [echasnovski/mini.deps](https://github.com/echasnovski/mini.deps) - Plugin manager. Part of 'mini.nvim' library.
@@ -1405,6 +1405,9 @@
 
 ## Rust 
 
+- [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
+- [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs) - A safe Rust crate for working with the Wayland clipboard.
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [alesbrelih/gitlab-ci-ls](https://github.com/alesbrelih/gitlab-ci-ls) - 
 - [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first
