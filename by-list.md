@@ -791,6 +791,8 @@
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
 - [evanpurkhiser/linux-vt-setcolors](https://github.com/evanpurkhiser/linux-vt-setcolors) - Utility tool to set the linux VT default color palette
 - [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs) - A safe Rust crate for working with the Wayland clipboard.
 
 ## lsp
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -1203,7 +1205,7 @@
 - [echasnovski/mini.deps](https://github.com/echasnovski/mini.deps) - Plugin manager. Part of 'mini.nvim' library. 
 - [echasnovski/mini.tabline](https://github.com/echasnovski/mini.tabline) - Neovim Lua plugin with minimal and fast tabline. Part of 'mini.nvim' library.
 - [f4z3r/gruvbox-material.nvim](https://github.com/f4z3r/gruvbox-material.nvim) - Material Gruvbox colorscheme for Neovim written in Lua
-- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project
+- [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) - An import picker that learns from your codebase
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) - A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp
