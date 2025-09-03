@@ -351,6 +351,8 @@
 
 ## Emacs Lisp 
 
+- [bohonghuang/org-srs](https://github.com/bohonghuang/org-srs) - A feature-rich and flexible spaced repetition system inside Org-mode
+- [wwwjfy/emacs-fish](https://github.com/wwwjfy/emacs-fish) - fish-mode for emacs
 - [rjekker/password-store-menu](https://github.com/rjekker/password-store-menu) - A better, more complete user interface for password-store
 - [mkcms/interactive-align](https://github.com/mkcms/interactive-align) - Interactively align by regular expression in emacs
 - [11111000000/magpt](https://github.com/11111000000/magpt) - Universal, safe Git Assistant
@@ -651,6 +653,7 @@
 
 ## Fennel 
 
+- [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 - [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) - 🕛 ZERO-overhead Fennel JIT compiler for nvim config
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
@@ -910,6 +913,8 @@
 
 ## Lua 
 
+- [savq/melange-nvim](https://github.com/savq/melange-nvim) - 🗡️ Warm color scheme for Neovim and beyond
+- [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) - doom-emacs' doom-one Lua port for Neovim
 - [BirdeeHub/lze](https://github.com/BirdeeHub/lze) - A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
 - [Shallow-Seek/djvu-view.yazi](https://github.com/Shallow-Seek/djvu-view.yazi) - djvu preview for Yazi file browser
 - [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) - Virtual text context for neovim treesitter
@@ -1209,7 +1214,6 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
@@ -1290,7 +1294,7 @@
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
 - [qutebrowser/qutebrowser-extensions](https://github.com/qutebrowser/qutebrowser-extensions) - Extension ideas (and at some point code) for qutebrowser
 - [LightAir/darkmini](https://github.com/LightAir/darkmini) - Dark theme for rEFInd
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Moved to Codeberg)
 - [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
@@ -1431,6 +1435,7 @@
 
 ## Rust 
 
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [LeChatP/RootAsRole](https://github.com/LeChatP/RootAsRole) - A better alternative to sudo(-rs)/su • ⚡ Blazing fast • 🛡️ Memory-safe • 🔐 Security-oriented
 - [MaxVerevkin/wl-gammarelay-rs](https://github.com/MaxVerevkin/wl-gammarelay-rs) - A simple program that provides DBus interface to control display temperature and brightness under wayland without flickering
@@ -1673,6 +1678,7 @@
 - [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 - [AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup blocking userscript
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
