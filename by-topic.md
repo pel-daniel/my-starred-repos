@@ -312,6 +312,7 @@
 
 ## awesome 
 
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [tijn/awesome-password-store](https://github.com/tijn/awesome-password-store) - A collection of awesome pass extensions and interfaces (for zx2c4's pass)
 - [mikalv/awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
@@ -874,7 +875,6 @@
 - [rougier/svg-lib](https://github.com/rougier/svg-lib) - Emacs SVG libraries for creatings tags, icons and bars
 - [rougier/mastodon-alt](https://github.com/rougier/mastodon-alt) - Emacs alternative mastodon layout
 - [rougier/nano-calendar](https://github.com/rougier/nano-calendar) - An alternative calendar for Emacs
-- [muffinmad/emacs-mini-frame](https://github.com/muffinmad/emacs-mini-frame) - Show minibuffer in child frame on read-from-minibuffer
 - [rougier/nano-modeline](https://github.com/rougier/nano-modeline) - GNU Emacs / N Λ N O Modeline
 - [rougier/nano-theme](https://github.com/rougier/nano-theme) - GNU Emacs / N Λ N O Theme
 - [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e) - Alternative layour for mu4e
@@ -1815,6 +1815,7 @@
 
 ## neovim 
 
+- [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
 - [savq/melange-nvim](https://github.com/savq/melange-nvim) - 🗡️ Warm color scheme for Neovim and beyond
 - [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) - doom-emacs' doom-one Lua port for Neovim
 - [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
@@ -2021,6 +2022,7 @@
 
 ## nodejs 
 
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [SteamAchievementNotifier/SteamAchievementNotifier](https://github.com/SteamAchievementNotifier/SteamAchievementNotifier) - Steam Achievement Notifier shows fully customisable notifications when you unlock any achievement on Steam!
@@ -2077,6 +2079,9 @@
 
 ## others 
 
+- [tanrax/awesome-org-social](https://github.com/tanrax/awesome-org-social) - 
+- [DreamMaoMao/searchjump.yazi](https://github.com/DreamMaoMao/searchjump.yazi) - A Yazi plugin whose behavior is consistent with flash.nvim in Neovim: from a search string it generates labels to jump to.mirror of https://gitee.com/DreamMaoMao
+- [7696122/smart-cursor-color](https://github.com/7696122/smart-cursor-color) - :droplet: Change cursor-color dynamically on Emacs.
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [bohonghuang/org-srs](https://github.com/bohonghuang/org-srs) - A feature-rich and flexible spaced repetition system inside Org-mode
 - [wwwjfy/emacs-fish](https://github.com/wwwjfy/emacs-fish) - fish-mode for emacs
