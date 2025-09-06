@@ -513,6 +513,10 @@
 - [tanrax/awesome-org-social](https://github.com/tanrax/awesome-org-social) - 
 - [andreasjansson/language-detection.el](https://github.com/andreasjansson/language-detection.el) - Automatic programming language detection of code snippets, in Emacs Lisp
 - [Kinneyzhang/ETML](https://github.com/Kinneyzhang/ETML) - Emacs Text Markup Language: text block rendering and flexible layout in Emacs buffers.
+- [agzam/browser-hist.el](https://github.com/agzam/browser-hist.el) - Search through browser history, in Emacs
+- [dandavison/magit-delta](https://github.com/dandavison/magit-delta) - Use delta (https://github.com/dandavison/delta) when viewing diffs in Magit
+- [magit/orgit](https://github.com/magit/orgit) - Support for Org links to Magit buffers
+- [douo/magit-gptcommit](https://github.com/douo/magit-gptcommit) - Magit commit with help of gpt 
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
@@ -1163,7 +1167,7 @@
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. inspired by Zed.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [nvim-neorg/neorg-gtd](https://github.com/nvim-neorg/neorg-gtd) - A cross-platform module for Getting Things Done in Neorg.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
 - [vlime/vlime](https://github.com/vlime/vlime) - A Common Lisp dev environment for Vim (and Neovim)
 - [kovisoft/slimv](https://github.com/kovisoft/slimv) - Official mirror of Slimv versions released on vim.org
@@ -1270,6 +1274,8 @@
 - [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) - doom-emacs' doom-one Lua port for Neovim
 - [savq/melange-nvim](https://github.com/savq/melange-nvim) - 🗡️ Warm color scheme for Neovim and beyond
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
+- [adriankarlen/plugin-view.nvim](https://github.com/adriankarlen/plugin-view.nvim) - A neovim plugin to see your installed plugins
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 
 ## obs
 - [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
@@ -1635,6 +1641,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [privau/searxng](https://github.com/privau/searxng) - Builds a custom SearXNG image, a privacy-respecting metasearch engine.
 
 ## windows
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
