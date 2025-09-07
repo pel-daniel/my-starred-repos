@@ -517,6 +517,10 @@
 - [dandavison/magit-delta](https://github.com/dandavison/magit-delta) - Use delta (https://github.com/dandavison/delta) when viewing diffs in Magit
 - [magit/orgit](https://github.com/magit/orgit) - Support for Org links to Magit buffers
 - [douo/magit-gptcommit](https://github.com/douo/magit-gptcommit) - Magit commit with help of gpt 
+- [mickeynp/ligature.el](https://github.com/mickeynp/ligature.el) - Display typographical ligatures in Emacs
+- [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
+- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
+- [emacsorphanage/ox-pandoc](https://github.com/emacsorphanage/ox-pandoc) - Another org-mode exporter via pandoc.
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
