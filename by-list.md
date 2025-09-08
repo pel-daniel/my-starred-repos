@@ -521,6 +521,7 @@
 - [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 - [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
 - [emacsorphanage/ox-pandoc](https://github.com/emacsorphanage/ox-pandoc) - Another org-mode exporter via pandoc.
+- [Alexander-Miller/treemacs](https://github.com/Alexander-Miller/treemacs) - 
 
 ## fmt
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
