@@ -554,6 +554,8 @@
 - [fontsource/font-files](https://github.com/fontsource/font-files) - 1800+ open-source fonts bundled into neat packages.
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [TypeTogether/Playpen-Sans](https://github.com/TypeTogether/Playpen-Sans) - TypeTogether Playpen Sans font.
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 
 ## games
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -799,7 +801,6 @@
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
-- [lbonn/rofi](https://github.com/lbonn/rofi) - [Historical wayland fork - see davatorium/rofi!] Rofi: A window switcher, run dialog and dmenu replacement
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
