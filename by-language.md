@@ -107,7 +107,6 @@
 - [cheusov/dictd](https://github.com/cheusov/dictd) - Client/server software, human language dictionary databases, and tools supporting the DICT protocol (RFC 2229)
 - [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
-- [lbonn/rofi](https://github.com/lbonn/rofi) - [Historical wayland fork - see davatorium/rofi!] Rofi: A window switcher, run dialog and dmenu replacement
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
@@ -782,6 +781,7 @@
 
 ## HTML 
 
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [chenyanming/shrface](https://github.com/chenyanming/shrface) - Extend eww/nov with org-mode features, archive web pages to org files with shr.
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) - 
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
@@ -1205,6 +1205,7 @@
 
 ## Makefile 
 
+- [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) - Automatic conversion of the NetBSD pkgsrc CVS module, use with care
 - [freebsd/freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
 - [openbsd/ports](https://github.com/openbsd/ports) - Read-only git conversion of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
