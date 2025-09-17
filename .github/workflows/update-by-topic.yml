@@ -18,17 +18,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install starred
       - name: Get repository name
-        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
-      - name: Update repo category by topic
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ env.REPOSITORY_NAME }}
           USERNAME: ${{ github.repository_owner }}
         run: |
           starred \
-          --username ${USERNAME} \
-          --repository ${REPOSITORY} \
-          --token ${GITHUB_TOKEN} \
+          --username "${USERNAME}" \
+          --repository "${REPOSITORY}" \
+          --token "${GITHUB_TOKEN}" \
           --sort \
           --message "docs(topic): bump data" \
           --filename by-topic.md \
