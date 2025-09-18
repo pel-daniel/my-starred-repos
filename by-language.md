@@ -351,6 +351,10 @@
 
 ## Emacs Lisp 
 
+- [rainstormstudio/treemacs-nerd-icons](https://github.com/rainstormstudio/treemacs-nerd-icons) - 
+- [tanrax/lobsters.el](https://github.com/tanrax/lobsters.el) - Lobsters client for Emacs
+- [nyyManni/ejira](https://github.com/nyyManni/ejira) - Emacs JIRA integration
+- [ahungry/org-jira](https://github.com/ahungry/org-jira) - Bring Jira and OrgMode together
 - [hexmode/mediawiki-el](https://github.com/hexmode/mediawiki-el) - Emacs interface to edit any mediawiki site
 - [dajva/rg.el](https://github.com/dajva/rg.el) - Emacs search tool based on ripgrep
 - [eshelyaron/semel](https://github.com/eshelyaron/semel) - Semantic highlighting for Emacs Lisp
@@ -692,6 +696,7 @@
 
 ## Go 
 
+- [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
@@ -1361,6 +1366,8 @@
 
 ## Python 
 
+- [tanrax/org-social-preview](https://github.com/tanrax/org-social-preview) - Tool for generating HTML previews from Org Social files
+- [tanrax/org-social-relay](https://github.com/tanrax/org-social-relay) - Org Social Rely is a P2P system that acts as an intermediary between all social.org files
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - Creating your own Awesome List by GitHub starred lists! 🌟
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
@@ -1464,12 +1471,14 @@
 
 ## Ruby 
 
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - Home Manager Option Search
 - [greasyfork-org/greasyfork](https://github.com/greasyfork-org/greasyfork) - An online repository of user scripts.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## Rust 
 
+- [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -1632,6 +1641,8 @@
 
 ## Shell 
 
+- [dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng) - dracut - the event driven initramfs infrastructure
+- [archlinux/mkinitcpio](https://github.com/archlinux/mkinitcpio) - Arch Linux initramfs generation tools (read-only mirror)
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [evanpurkhiser/mkinitcpio-colors](https://github.com/evanpurkhiser/mkinitcpio-colors) - Provides a hook for Arch Linux's mkinitcpio utility to set VT colors during early userspace
