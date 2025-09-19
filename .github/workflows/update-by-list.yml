@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update category by list
-        uses: Frestein/gaze-stars@main
+        uses: pel-daniel/gaze-stars@main
         with:
           github-username: ${{ github.repository_owner }}
           git-message: "docs(list): bump data"
