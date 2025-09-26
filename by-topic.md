@@ -1258,6 +1258,8 @@
 
 ## others 
 
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
+- [t0mpr1c3/knotty](https://github.com/t0mpr1c3/knotty) - A domain-specific language for knitting patterns
 - [StudioPlatforms/plain-lang](https://github.com/StudioPlatforms/plain-lang) - Plain is a minimalist, English-like programming language that makes coding feel like natural conversation. Write clear, readable programs using everyday language instead of cryptic symbols.  Features:
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [vic/van](https://github.com/vic/van) - command line structured editor in rust (bubbletea-rs TUI)
