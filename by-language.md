@@ -423,6 +423,7 @@
 
 ## Java 
 
+- [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
 - [panicz/grasp-android](https://github.com/panicz/grasp-android) - GRASP for Android
 - [dddjava/jig](https://github.com/dddjava/jig) - Javaでのコードによる設計を可視化によって支援するツール
 - [jcoplien/trygve](https://github.com/jcoplien/trygve) - The trygve language project - Building a DCI-centric language from the ground up
@@ -983,6 +984,8 @@
 
 ## Rust 
 
+- [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [StudioPlatforms/plain-lang](https://github.com/StudioPlatforms/plain-lang) - Plain is a minimalist, English-like programming language that makes coding feel like natural conversation. Write clear, readable programs using everyday language instead of cryptic symbols.  Features:
 - [vic/van](https://github.com/vic/van) - command line structured editor in rust (bubbletea-rs TUI)
@@ -1097,6 +1100,8 @@
 
 ## TypeScript 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
