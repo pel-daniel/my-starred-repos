@@ -214,6 +214,7 @@
 
 ## ai 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
@@ -246,6 +247,7 @@
 
 ## api 
 
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -415,6 +417,7 @@
 
 ## code 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
@@ -567,6 +570,7 @@
 
 ## devops 
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 
 ## docker 
@@ -697,6 +701,7 @@
 
 ## framework 
 
+- [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -758,6 +763,7 @@
 
 ## github 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [jasonlong/cayman-theme](https://github.com/jasonlong/cayman-theme) - A responsive theme for GitHub Pages
@@ -1258,6 +1264,7 @@
 
 ## others 
 
+- [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [t0mpr1c3/knotty](https://github.com/t0mpr1c3/knotty) - A domain-specific language for knitting patterns
 - [StudioPlatforms/plain-lang](https://github.com/StudioPlatforms/plain-lang) - Plain is a minimalist, English-like programming language that makes coding feel like natural conversation. Write clear, readable programs using everyday language instead of cryptic symbols.  Features:
@@ -2108,6 +2115,8 @@
 
 ## rust 
 
+- [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
@@ -2367,6 +2376,7 @@
 
 ## web 
 
+- [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [eclipse-sprotty/sprotty](https://github.com/eclipse-sprotty/sprotty) - A diagramming framework for the web
