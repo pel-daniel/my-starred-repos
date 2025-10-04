@@ -196,6 +196,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vue](#vue)
 - [web](#web)
 - [web-components](#web-components)
@@ -1583,7 +1584,6 @@
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [fxn/tkn](https://github.com/fxn/tkn) - Terminal Keynote - A hack for terminal-based talks
 - [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
-- [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [eggplanetio/mert](https://github.com/eggplanetio/mert) - ▢ An iTerm 3-compatible window, tab, and pane manager.
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [c42/ruby_primer](https://github.com/c42/ruby_primer) - The Ruby Primer is a free, open and interactive e-book published on the RubyMonk platform.
@@ -1603,7 +1603,6 @@
 - [notoriousb1t/awesome-css-variables](https://github.com/notoriousb1t/awesome-css-variables) - A curated list of all awesome libraries and resources for CSS Variables
 - [gvwilson/teachtogether.tech](https://github.com/gvwilson/teachtogether.tech) - Teaching Tech Together
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [Bitspark/slang](https://github.com/Bitspark/slang) - SLANG engine written in Go
 - [lachenmayer/arrowsmith](https://github.com/lachenmayer/arrowsmith) - Augmented editor for Elm.
 - [chrisuehlinger/LambdaBubblePop](https://github.com/chrisuehlinger/LambdaBubblePop) - 
 - [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
@@ -1614,7 +1613,6 @@
 - [chaimgingold/Tabla](https://github.com/chaimgingold/Tabla) - 
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [joshmarinacci/semantic-editor-js](https://github.com/joshmarinacci/semantic-editor-js) - A web-based semantic WYSIWYG editor
-- [vladimir-vg/batiscaph](https://github.com/vladimir-vg/batiscaph) - Currently inactive. Erlang trace visualizer.
 - [droplet-editor/droplet](https://github.com/droplet-editor/droplet) - Block language reenvisioned as a text editor
 - [nathanvda/cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
@@ -2376,6 +2374,22 @@
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+
+## visualization 
+
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+- [stanch/reftree](https://github.com/stanch/reftree) - Automatically generated diagrams and animations for Scala data structures
+- [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
+- [eclipse-sprotty/sprotty](https://github.com/eclipse-sprotty/sprotty) - A diagramming framework for the web
+- [taowen/awesome-debugger](https://github.com/taowen/awesome-debugger) - record & replay or time travel debugging
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
+- [dc-js/dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+- [Bitspark/slang](https://github.com/Bitspark/slang) - SLANG engine written in Go
+- [vladimir-vg/batiscaph](https://github.com/vladimir-vg/batiscaph) - Currently inactive. Erlang trace visualizer.
+- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+- [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
+- [jasonlong/geo_pattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
 
 ## vue 
 
