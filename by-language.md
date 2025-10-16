@@ -525,7 +525,7 @@
 - [amyjko/Gidget](https://github.com/amyjko/Gidget) - Computing education through playful debugging
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-- [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) - The old Future of Coding website
+- [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) - An archive of Steve Krouse's Future of Coding research notes
 - [Widdershin/stream-tree](https://github.com/Widdershin/stream-tree) - stream-tree is a way to write functions as ASCII flowcharts in JavaScript.
 - [sakamies/ranui](https://github.com/sakamies/ranui) - Foolproof HTML editor proto
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
