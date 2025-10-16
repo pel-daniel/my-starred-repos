@@ -230,6 +230,7 @@
 
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 ## algorithm 
@@ -1639,7 +1640,7 @@
 - [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
 - [MaximeBlondel/organized-coding-tools-for-le-wagon-newbies](https://github.com/MaximeBlondel/organized-coding-tools-for-le-wagon-newbies) - Just finished Le Wagon Paris (Batch #100) and classified in a Google Chrome "favorites" folder a lot of tools/resources that Le Wagon blew us + some personal finds. If other newbies are interested, I 
 - [HaskellChamber/Haskell-University](https://github.com/HaskellChamber/Haskell-University) - Portfolio-based approach to learning Haskell
-- [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) - The old Future of Coding website
+- [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) - An archive of Steve Krouse's Future of Coding research notes
 - [Widdershin/stream-tree](https://github.com/Widdershin/stream-tree) - stream-tree is a way to write functions as ASCII flowcharts in JavaScript.
 - [harc/relax-overveld](https://github.com/harc/relax-overveld) - This is a library for "Overveld-style" constraint relaxation.
 - [shankardevy/neem](https://github.com/shankardevy/neem) - A mini web framework built from scratch as explained in the book - Garuda - Demystify Phoenix Internals & Rebuild Phoenix Clone
