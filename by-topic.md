@@ -220,6 +220,7 @@
 ## ai 
 
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
@@ -805,6 +806,7 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
@@ -1286,6 +1288,7 @@
 
 ## others 
 
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [t0mpr1c3/knotty](https://github.com/t0mpr1c3/knotty) - A domain-specific language for knitting patterns
@@ -1295,7 +1298,6 @@
 - [FolkComputer/gadget2](https://github.com/FolkComputer/gadget2) - 🔦 Larger gadget with batteries & commercial AnyBeam projector & stereo camera & Orange Pi 5.
 - [FolkComputer/gadget](https://github.com/FolkComputer/gadget) - 🔦
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - a little engine for little games, worlds, and stories
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [denismm/mystical_ps](https://github.com/denismm/mystical_ps) - 
 - [AllenInstitute/microns_tutorial](https://github.com/AllenInstitute/microns_tutorial) - MICrONS databook and analysis tutorials
 - [jamesbvaughan/bidirectional-number-editor](https://github.com/jamesbvaughan/bidirectional-number-editor) - A demonstration of text/GUI bi-directional editing via an LSP server
