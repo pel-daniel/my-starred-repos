@@ -1116,7 +1116,7 @@
 - [Azeirah/ma](https://github.com/Azeirah/ma) - Ma language, a JavaScript implementation of Realtalk
 - [billbudge/WebEditorFramework](https://github.com/billbudge/WebEditorFramework) - Diagram editing app framework, in TypeScript.
 - [folk-js/folkjs](https://github.com/folk-js/folkjs) - An umbrella of radically different directions that we can interface with the web.
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
@@ -1129,7 +1129,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [wordplaydev/wordplay](https://github.com/wordplaydev/wordplay) - An accessible, language-inclusive programming language and IDE for creating interactive typography on the web.
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
-- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check more at https://nocode-js.com
+- [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
