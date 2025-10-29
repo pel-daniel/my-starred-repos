@@ -1110,7 +1110,7 @@
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jamesbvaughan/bidirectional-number-editor](https://github.com/jamesbvaughan/bidirectional-number-editor) - A demonstration of text/GUI bi-directional editing via an LSP server
 - [tpetricek/tiny-boxer](https://github.com/tpetricek/tiny-boxer) - A tiny programming system inspired by Boxer leveraging the HTML DOM structure. Illustrates naive realism, explicit structure and evaluation by copy & replace.
 - [Azeirah/ma](https://github.com/Azeirah/ma) - Ma language, a JavaScript implementation of Realtalk
