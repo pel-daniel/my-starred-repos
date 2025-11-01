@@ -79,7 +79,6 @@
 
 ## C 
 
-- [willpuckett/ehrbl](https://github.com/willpuckett/ehrbl) - 🍂 is in the air...
 - [radlinskii/basilisk](https://github.com/radlinskii/basilisk) - Basilisk is an ergonomic, split, 40%, handwired, "key-welled" keyboard using WeAct RP2040 boards designed in Fusion 360
 - [radlinskii/mechabasilisk](https://github.com/radlinskii/mechabasilisk) - Ergonomic, split, 40%, handwired, "key-welled" keyboard using WeAct RP2040 boards designed in Fusion 360
 - [protieusz/Sachiel](https://github.com/protieusz/Sachiel) - Sachiel, inspired by Grumpy, 34 keys custom keyboard with 25mm trackball
@@ -995,6 +994,7 @@
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+- [willpuckett/ehrbl](https://github.com/willpuckett/ehrbl) - 🍂 is in the air...
 - [jimmyhmiller/beagle](https://github.com/jimmyhmiller/beagle) - The beginnings of a fast, modern, multithreaded, dynamically typed langauge
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
