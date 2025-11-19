@@ -2435,7 +2435,7 @@
 
 ## web-development 
 
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
 
 ## webapp 
 
