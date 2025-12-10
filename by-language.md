@@ -87,7 +87,7 @@
 - [jabl/fsv](https://github.com/jabl/fsv) - fsv is a file system visualizer in cyberspace. It lays out files and directories in three dimensions, geometrically representing the file system hierarchy to allow visual overview and analysis.
 - [mcuelenaere/fsv](https://github.com/mcuelenaere/fsv) - fsv is a file system visualizer in cyberspace. It lays out files and directories in three dimensions, geometrically representing the file system hierarchy to allow visual overview and analysis.
 - [nickconway/zmk](https://github.com/nickconway/zmk) - ZMK Firmware Repository
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [ganelson/inform](https://github.com/ganelson/inform) - The core software distribution for the Inform 7 programming language.
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [nezumee/zebra](https://github.com/nezumee/zebra) - Zebra, adjustable column stagger keyboard
