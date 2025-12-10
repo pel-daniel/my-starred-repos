@@ -1455,7 +1455,7 @@
 - [wizarddata/Ergo-S-1](https://github.com/wizarddata/Ergo-S-1) - 
 - [GoogleChromeLabs/css-triggers](https://github.com/GoogleChromeLabs/css-triggers) - A reference for the render impact of mutating CSS properties.
 - [SplootCode/splootcode](https://github.com/SplootCode/splootcode) - The coding environment for non-engineers
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [cmontella/programming-language-design](https://github.com/cmontella/programming-language-design) - Programming Language Design Resources
 - [jsog/jsog](https://github.com/jsog/jsog) - JavaScript Object Graph
 - [madebyperce/shelby-min-mx-keycaps](https://github.com/madebyperce/shelby-min-mx-keycaps) - Minimum pitch keycaps for MX style switches. 15.4mm x 15.4mm
