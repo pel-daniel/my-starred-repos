@@ -82,6 +82,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -784,6 +785,10 @@
 ## gaming 
 
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
+
+## generative-ai 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## git 
 
