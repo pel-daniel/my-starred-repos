@@ -1880,7 +1880,6 @@
 - [bryanbraun/franklin](https://github.com/bryanbraun/franklin) - A static site framework for online books.
 - [commercialhaskell/commercialhaskell](https://github.com/commercialhaskell/commercialhaskell) - A special interest group for companies and individuals interested in commercial usage of Haskell
 - [foraker/ember-reading-group](https://github.com/foraker/ember-reading-group) - Notes and curriculum for Foraker's Ember Reading Group
-- [mattsears/nyan-cat-formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
 - [orbitaloop/WebSqlSync](https://github.com/orbitaloop/WebSqlSync) - Synchronize a local WebSQL DB to a server
 - [vic/gooby](https://github.com/vic/gooby) - An experimental rubinius bytecode interpreter in Go.
 - [rubinius/rubinius-book](https://github.com/rubinius/rubinius-book) - The Rubinius Book
