@@ -960,7 +960,6 @@
 - [igrigorik/http-2](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 - [ko1/pretty_backtrace](https://github.com/ko1/pretty_backtrace) - Pretty your exception backtrace.
 - [feedjira/feedjira](https://github.com/feedjira/feedjira) - A feed parsing library
-- [mattsears/nyan-cat-formatter](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
 - [pitr-ch/algebrick](https://github.com/pitr-ch/algebrick) - Typed structs on steroids based on algebraic types and pattern matching.
 - [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 - [tricknotes/ember-cli-rails](https://github.com/tricknotes/ember-cli-rails) - Unify your EmberCLI and Rails Workflows
