@@ -156,6 +156,7 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [programming-language](#programming-language)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -1996,6 +1997,10 @@
 - [lamdu/lamdu](https://github.com/lamdu/lamdu) - lamdu - towards the next generation IDE
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
+
+## prompt-engineering 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## publishing 
 
