@@ -22,6 +22,7 @@
 - [F#](#f#)
 - [Factor](#factor)
 - [Fennel](#fennel)
+- [Fluent](#fluent)
 - [Game Maker Language](#game-maker-language)
 - [Go](#go)
 - [HTML](#html)
@@ -329,6 +330,10 @@
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Scheme, Python, JavaScript, PHP, R, Lua, Rust and more!)
 
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
 ## Game Maker Language 
 
 - [satt99/comet46-hardware](https://github.com/satt99/comet46-hardware) - Mechanical design files for the Comet46 keyboard
@@ -435,7 +440,6 @@
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - a little engine for little games, worlds, and stories
 - [collidingScopes/arpeggiator](https://github.com/collidingScopes/arpeggiator) - Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Built with mediapipe computer vision, threejs, tonejs
 - [mbrowne/babel-dci](https://github.com/mbrowne/babel-dci) - Babel plugins for DCI programming
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [knitscape/knitscape](https://github.com/knitscape/knitscape) - Knitscape is a chart-based design and simulation tool for knitting stitch patterns.
