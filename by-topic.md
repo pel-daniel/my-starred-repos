@@ -172,6 +172,7 @@
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -595,6 +596,7 @@
 ## developer-tools 
 
 - [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
+- [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - Static Python dependency graph with interactive HTML visualization, massive object detection, and unlinked module analysis (no code execution).
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -1323,6 +1325,7 @@
 
 ## others 
 
+- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
@@ -2015,7 +2018,7 @@
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [AllenInstitute/bmtk](https://github.com/AllenInstitute/bmtk) - Brain Modeling Toolkit
-- [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - CodeGraph - Tool that create a graph of code to show dependencies between code entities (methods, classes and etc).
+- [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - Static Python dependency graph with interactive HTML visualization, massive object detection, and unlinked module analysis (no code execution).
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
@@ -2151,6 +2154,10 @@
 
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+
+## reverse-engineering 
+
+- [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - Static Python dependency graph with interactive HTML visualization, massive object detection, and unlinked module analysis (no code execution).
 
 ## robotics 
 
