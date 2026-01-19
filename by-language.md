@@ -713,6 +713,7 @@
 
 ## Others 
 
+- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [FolkComputer/gadget2](https://github.com/FolkComputer/gadget2) - 🔦 Larger gadget with batteries & commercial AnyBeam projector & stereo camera & Orange Pi 5.
 - [FolkComputer/gadget](https://github.com/FolkComputer/gadget) - 🔦
@@ -867,7 +868,7 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [NativeSensors/EyeGestures](https://github.com/NativeSensors/EyeGestures) - gaze tracking software
 - [jonboh/ulp-dactyl](https://github.com/jonboh/ulp-dactyl) - A Dactyl mounting Ultra Low Profile switches :D
-- [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - CodeGraph - Tool that create a graph of code to show dependencies between code entities (methods, classes and etc).
+- [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - Static Python dependency graph with interactive HTML visualization, massive object detection, and unlinked module analysis (no code execution).
 - [dschil138/Fulcrum](https://github.com/dschil138/Fulcrum) - The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
 - [skarrmann/umbra](https://github.com/skarrmann/umbra) - 24 key ergonomic keyboard with self-encasing PCB.
 - [RobotTelevision/primpkeeb](https://github.com/RobotTelevision/primpkeeb) - Printable Modular Pico Pi Keyboard
