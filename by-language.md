@@ -45,6 +45,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PostScript](#postscript)
+- [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [PureScript](#purescript)
 - [Python](#python)
@@ -756,7 +757,6 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
-- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
 - [illness072/project-mammoth](https://github.com/illness072/project-mammoth) - a hardware of 🦣 keyboard
 - [juhakaup/keyboards](https://github.com/juhakaup/keyboards) - 
@@ -844,6 +844,10 @@
 ## PostScript 
 
 - [denismm/mystical_ps](https://github.com/denismm/mystical_ps) - 
+
+## PowerShell 
+
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ## Prolog 
 
@@ -983,6 +987,7 @@
 
 ## Rust 
 
+- [Ella-Hoeppner/easl](https://github.com/Ella-Hoeppner/easl) - Enhanced Abstraction Shader Language, a functional shader language written in Rust
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
