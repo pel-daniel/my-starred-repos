@@ -383,7 +383,7 @@
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (readonly mirror)
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
@@ -494,7 +494,7 @@
 
 ## cpp 
 
-- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (readonly mirror)
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [batman-nair/IRCIS](https://github.com/batman-nair/IRCIS) - I Run Chars I See(IRCIS) - a 2d grid based esoteric programming language.
 - [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
@@ -1320,7 +1320,7 @@
 
 - [opuntiaOS-Project/opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - opuntiaOS - an operating system targeting x86, ARM and RISC-V.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (readonly mirror)
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 
 ## others 
