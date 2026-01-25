@@ -119,7 +119,7 @@
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (readonly mirror)
+- [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 - [batman-nair/IRCIS](https://github.com/batman-nair/IRCIS) - I Run Chars I See(IRCIS) - a 2d grid based esoteric programming language.
