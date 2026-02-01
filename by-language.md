@@ -888,7 +888,6 @@
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [TartanLlama/vizh](https://github.com/TartanLlama/vizh) - An esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
-- [captain-http/quesobabas](https://github.com/captain-http/quesobabas) - La Deep Blue de los albures 🌶
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [JesusFreke/lalboard](https://github.com/JesusFreke/lalboard) - A 3D-printed keyboard inspired by the DataHand
 - [makerdiary/python-keyboard](https://github.com/makerdiary/python-keyboard) - A hand-wired USB & Bluetooth keyboard powered by Python and more
