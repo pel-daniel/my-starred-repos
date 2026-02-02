@@ -838,6 +838,7 @@
 - [commercialhaskell/commercialhaskell](https://github.com/commercialhaskell/commercialhaskell) - A special interest group for companies and individuals interested in commercial usage of Haskell
 - [foraker/ember-reading-group](https://github.com/foraker/ember-reading-group) - Notes and curriculum for Foraker's Ember Reading Group
 - [rubinius/rubinius-book](https://github.com/rubinius/rubinius-book) - The Rubinius Book
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 - [rails/activejob](https://github.com/rails/activejob) - Declare job classes that can be run by a variety of queueing backends
@@ -1046,7 +1047,6 @@
 - [viebel/kids.klipse.tech](https://github.com/viebel/kids.klipse.tech) - An interactive functional programming course for children based on clojure and klipse
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [mmistakes/so-simple-theme](https://github.com/mmistakes/so-simple-theme) - A simple Jekyll theme for words and pictures.
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## SVG 
 
