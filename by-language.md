@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [erikmwerner/QJoyControl](https://github.com/erikmwerner/QJoyControl) - Use Nintendo Switch JoyCons to control your Mac
 - [mafik/automat](https://github.com/mafik/automat) - A tangible interface for virtual things
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
@@ -786,7 +787,7 @@
 - [hanhanhan-kim/bloid40](https://github.com/hanhanhan-kim/bloid40) - A 40% Bluetooth ortholinear keyboard
 - [drever/ct-consciousness](https://github.com/drever/ct-consciousness) - 
 - [KGOH/Jian-Info](https://github.com/KGOH/Jian-Info) - Jian keyboard info repository
-- [yfuku/claw44](https://github.com/yfuku/claw44) - 
+- [yfuku/claw44](https://github.com/yfuku/claw44) - A split keyboard with 3x6 vertically staggered keys and 4 thumb keys
 - [stereobooster/programming-languages-genealogical-tree](https://github.com/stereobooster/programming-languages-genealogical-tree) - Programming languages genealogical tree
 - [prathyvsh/morphisms-of-computational-structures](https://github.com/prathyvsh/morphisms-of-computational-structures) - A visual catalogue + story of morphisms displayed across computational structures.
 - [PyrooL/Alpha](https://github.com/PyrooL/Alpha) - A 28-key semi-ortholinear mechanical keyboard designed by PyroL
@@ -996,7 +997,7 @@
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [StudioPlatforms/plain-lang](https://github.com/StudioPlatforms/plain-lang) - Plain is a minimalist, English-like programming language that makes coding feel like natural conversation. Write clear, readable programs using everyday language instead of cryptic symbols.  Features:
 - [vic/van](https://github.com/vic/van) - command line structured editor in rust (bubbletea-rs TUI)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [willpuckett/ehrbl](https://github.com/willpuckett/ehrbl) - 🍂 is in the air...
