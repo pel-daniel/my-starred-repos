@@ -304,6 +304,7 @@
 
 ## Emacs Lisp 
 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - 🚀 NEO Emacs — A GPU-powered Emacs written in Rust with a modern display engine. Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support. Aiming 
 - [ethan-leba/tree-edit](https://github.com/ethan-leba/tree-edit) - 🌲   Structural editing in Emacs for any™ language!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [ag91/moldable-emacs](https://github.com/ag91/moldable-emacs) - Adapting Emacs for moldable development
@@ -654,6 +655,7 @@
 
 ## Makefile 
 
+- [sunaku/enthium](https://github.com/sunaku/enthium) - Keyboard layout: Engrammer meets Promethium
 - [brow/balbuzard](https://github.com/brow/balbuzard) - A 36-key ergonomic keyboard with more wingspan
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [MangoIV/dracuLad](https://github.com/MangoIV/dracuLad) - QMK-powered 34-36 key split keyboard
@@ -1109,6 +1111,7 @@
 
 ## TypeScript 
 
+- [Pardesco/hypervault](https://github.com/Pardesco/hypervault) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [pmndrs/timeline](https://github.com/pmndrs/timeline) - → Write composable 3D behaviors like a story.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -1199,7 +1202,7 @@
 - [ef4/mho](https://github.com/ef4/mho) - Experimental service-worker based build system
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [fwouts/codetree](https://github.com/fwouts/codetree) - CodeTree is an ES6 library (written in TypeScript) that helps transform code easily.
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [joshmarinacci/filament-lang](https://github.com/joshmarinacci/filament-lang) - Filament programming language
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
