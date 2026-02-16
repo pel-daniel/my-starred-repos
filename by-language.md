@@ -609,7 +609,6 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [julianshapiro/blast](https://github.com/julianshapiro/blast) - Blast text apart to make it manipulable.
-- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [machty/emblem.js](https://github.com/machty/emblem.js) - Emblem.js - Ember-friendly, indented syntax alternative for Handlebars.js
 - [antila/ludum-dare-28](https://github.com/antila/ludum-dare-28) - Our game for the Ludum Dare #28 jam
 - [danielzen/ionic-pouchdb-todo](https://github.com/danielzen/ionic-pouchdb-todo) - A simple Ionic Todo app with a PouchDb local storage backend configured to syncwith a CouchDb installation. Demo of offline functionality with server synchronization.
@@ -683,7 +682,7 @@
 ## Nunjucks 
 
 - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [joshuacc/prose-for-programmers](https://github.com/joshuacc/prose-for-programmers) - A book to help software developers write better prose
 
 ## OCaml 
@@ -1243,6 +1242,7 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [orbitjs/orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
