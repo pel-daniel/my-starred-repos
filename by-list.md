@@ -6,20 +6,20 @@
 
 ## Contents
 - [3D](#3d)
-- [Artificial life 👾](#artificial-life-👾)
+- [Artificial life 👾](#artificial-life-)
 - [drag &amp; drop ⏬](#drag-&amp;-drop-⏬)
 - [FP](#fp)
 - [js-frameworks](#js-frameworks)
-- [Keyboard ⌨️](#keyboard-⌨️)
+- [Keyboard ⌨️](#keyboard-⌨)
 - [Lua](#lua)
 - [Nodes &amp; wires](#nodes-&amp;-wires)
-- [parsers/interpreters 🌳](#parsers/interpreters-🌳)
-- [prog-lang detection 👨🏽‍💻](#prog-lang-detection-👨🏽‍💻)
+- [parsers/interpreters 🌳](#parsers/interpreters-)
+- [prog-lang detection 👨🏽‍💻](#prog-lang-detection-)
 - [projectional-editor](#projectional-editor)
 - [react](#react)
 - [React native](#react-native)
 - [swift](#swift)
-- [🎨 ui](#🎨-ui)
+- [🎨 ui](#-ui)
 
 ## 3D
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
