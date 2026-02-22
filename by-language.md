@@ -24,6 +24,7 @@
 - [Fennel](#fennel)
 - [Game Maker Language](#game-maker-language)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -150,7 +151,6 @@
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [SquareBracketAssociates/UpdatedPharoByExample](https://github.com/SquareBracketAssociates/UpdatedPharoByExample) - A version of Pharo by Example for Pharo 50.
-- [unbalancedparentheses/spawnedshelter](https://github.com/unbalancedparentheses/spawnedshelter) - :blue_book: Erlang Spawned Shelter. Erlang and Elixir training with the best articles, videos, books and talks🎓
 - [learnyouanelm/learnyouanelm.github.io](https://github.com/learnyouanelm/learnyouanelm.github.io) - “Learn You an Elm!”, based on LYAH by Miran Lipovača
 - [madsflensted/dots](https://github.com/madsflensted/dots) - 
 - [koudelka/visualixir](https://github.com/koudelka/visualixir) - A process/message visualizer for BEAM nodes.💪👁
@@ -349,6 +349,10 @@
 - [Bitspark/slang](https://github.com/Bitspark/slang) - SLANG engine written in Go
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [vic/gooby](https://github.com/vic/gooby) - An experimental rubinius bytecode interpreter in Go.
+
+## Go Template 
+
+- [unbalancedparentheses/spawnedshelter](https://github.com/unbalancedparentheses/spawnedshelter) - :blue_book: Erlang Spawned Shelter. Erlang and Elixir training with the best articles, videos, books and talks🎓
 
 ## HTML 
 
