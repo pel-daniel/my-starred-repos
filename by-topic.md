@@ -234,6 +234,7 @@
 
 ## ai 
 
+- [marcus/td](https://github.com/marcus/td) - A minimalist CLI for tracking tasks across AI coding sessions.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -1337,7 +1338,7 @@
 - [sunaku/enthium](https://github.com/sunaku/enthium) - Keyboard layout: Engrammer meets Promethium
 - [erikmwerner/QJoyControl](https://github.com/erikmwerner/QJoyControl) - Use Nintendo Switch JoyCons to control your Mac
 - [Ella-Hoeppner/easl](https://github.com/Ella-Hoeppner/easl) - Enhanced Abstraction Shader Language, a functional shader language written in Rust
-- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
+- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football datasets in the Football.TXT format for the World Cup (incl. USA/Canada/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
