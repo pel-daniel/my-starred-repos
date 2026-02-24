@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [marcus/td](https://github.com/marcus/td) - A minimalist CLI for tracking tasks across AI coding sessions.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
@@ -721,7 +722,7 @@
 
 ## Others 
 
-- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football data for the World Cup (incl. Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
+- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football datasets in the Football.TXT format for the World Cup (incl. USA/Canada/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [FolkComputer/gadget2](https://github.com/FolkComputer/gadget2) - 🔦 Larger gadget with batteries & commercial AnyBeam projector & stereo camera & Orange Pi 5.
 - [FolkComputer/gadget](https://github.com/FolkComputer/gadget) - 🔦
