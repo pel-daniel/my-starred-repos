@@ -1335,6 +1335,7 @@
 
 ## others 
 
+- [codepod-io/codepod](https://github.com/codepod-io/codepod) - Codepod IDE: Scalable Interactive Coding
 - [sunaku/enthium](https://github.com/sunaku/enthium) - Keyboard layout: Engrammer meets Promethium
 - [erikmwerner/QJoyControl](https://github.com/erikmwerner/QJoyControl) - Use Nintendo Switch JoyCons to control your Mac
 - [Ella-Hoeppner/easl](https://github.com/Ella-Hoeppner/easl) - Enhanced Abstraction Shader Language, a functional shader language written in Rust
