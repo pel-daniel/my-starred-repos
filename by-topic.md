@@ -245,7 +245,7 @@
 
 ## ai-agents 
 
-- [Pardesco/hypervault](https://github.com/Pardesco/hypervault) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -450,7 +450,7 @@
 
 ## code 
 
-- [Pardesco/hypervault](https://github.com/Pardesco/hypervault) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
@@ -1296,7 +1296,7 @@
 
 ## obsidian 
 
-- [Pardesco/hypervault](https://github.com/Pardesco/hypervault) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
 
 ## obsidian-md 
 
@@ -1304,7 +1304,7 @@
 
 ## obsidian-plugin 
 
-- [Pardesco/hypervault](https://github.com/Pardesco/hypervault) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 
 ## open-source 
@@ -2385,7 +2385,7 @@
 
 ## typescript 
 
-- [Pardesco/hypervault](https://github.com/Pardesco/hypervault) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
