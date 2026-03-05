@@ -980,7 +980,7 @@
 - [pitr-ch/algebrick](https://github.com/pitr-ch/algebrick) - Typed structs on steroids based on algebraic types and pattern matching.
 - [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
 - [tricknotes/ember-cli-rails](https://github.com/tricknotes/ember-cli-rails) - Unify your EmberCLI and Rails Workflows
-- [cerebris/jsonapi-resources](https://github.com/cerebris/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
+- [JSONAPI-Resources/jsonapi-resources](https://github.com/JSONAPI-Resources/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
 - [coreyhaines/ShoppingCart](https://github.com/coreyhaines/ShoppingCart) - Sample application to show fast rails tests
 - [jcoglan/heist](https://github.com/jcoglan/heist) - Scheme in as little Ruby and as much Scheme as possible. Supports macros, continuations, tail recursion and lazy evaluation.
