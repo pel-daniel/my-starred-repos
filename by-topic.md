@@ -1908,7 +1908,7 @@
 - [theburningmonk/elm-snake](https://github.com/theburningmonk/elm-snake) - Implementation of Snake in Elm
 - [tricknotes/ember-cli-rails](https://github.com/tricknotes/ember-cli-rails) - Unify your EmberCLI and Rails Workflows
 - [ushahidi/SMSSync](https://github.com/ushahidi/SMSSync) - SMS gateway for Android powered phones
-- [cerebris/jsonapi-resources](https://github.com/cerebris/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
+- [JSONAPI-Resources/jsonapi-resources](https://github.com/JSONAPI-Resources/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [coreyhaines/ShoppingCart](https://github.com/coreyhaines/ShoppingCart) - Sample application to show fast rails tests
 - [thoughtbot/carnival](https://github.com/thoughtbot/carnival) - An unobtrusive, developer-friendly way to add comments
