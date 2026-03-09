@@ -32,6 +32,7 @@
 - [JetBrains MPS](#jetbrains-mps)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -642,6 +643,10 @@
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
+## Kotlin 
+
+- [jrpie/launcher](https://github.com/jrpie/launcher) - A distraction-free, minimal homescreen for Android.
+
 ## Less 
 
 - [jesseweed/seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
@@ -727,6 +732,7 @@
 
 ## Others 
 
+- [nature-of-order/pattern-language](https://github.com/nature-of-order/pattern-language) - A Pattern Language and related material in modern digital, accessible form.
 - [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football datasets in the Football.TXT format for the World Cup (incl. USA/Canada/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [FolkComputer/gadget2](https://github.com/FolkComputer/gadget2) - 🔦 Larger gadget with batteries & commercial AnyBeam projector & stereo camera & Orange Pi 5.
@@ -1120,6 +1126,8 @@
 
 ## TypeScript 
 
+- [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
+- [garden-co/jazz](https://github.com/garden-co/jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [codepod-io/codepod](https://github.com/codepod-io/codepod) - Codepod IDE: Scalable Interactive Coding
 - [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
