@@ -1337,12 +1337,13 @@
 
 ## others 
 
+- [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [nature-of-order/pattern-language](https://github.com/nature-of-order/pattern-language) - A Pattern Language and related material in modern digital, accessible form.
 - [codepod-io/codepod](https://github.com/codepod-io/codepod) - Codepod IDE: Scalable Interactive Coding
 - [sunaku/enthium](https://github.com/sunaku/enthium) - Keyboard layout: Engrammer meets Promethium
 - [erikmwerner/QJoyControl](https://github.com/erikmwerner/QJoyControl) - Use Nintendo Switch JoyCons to control your Mac
 - [Ella-Hoeppner/easl](https://github.com/Ella-Hoeppner/easl) - Enhanced Abstraction Shader Language, a functional shader language written in Rust
-- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football datasets in the Football.TXT format for the World Cup (incl. USA/Canada/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
+- [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football datasets in the Football.TXT format for the World Cup (incl. Canada/USA/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
