@@ -110,6 +110,7 @@
 - [koa](#koa)
 - [language](#language)
 - [languages](#languages)
+- [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
 - [library](#library)
@@ -1088,6 +1089,10 @@
 ## languages 
 
 - [wende/elchemy](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax (compatible with Elm tooling)
+
+## laravel 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## latex 
 
