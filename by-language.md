@@ -665,7 +665,6 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 ## Makefile 
 
@@ -894,6 +893,7 @@
 - [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - Static Python dependency graph with interactive HTML visualization, massive object detection, and unlinked module analysis (no code execution).
 - [dschil138/Fulcrum](https://github.com/dschil138/Fulcrum) - The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
 - [skarrmann/umbra](https://github.com/skarrmann/umbra) - 24 key ergonomic keyboard with self-encasing PCB.
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [RobotTelevision/primpkeeb](https://github.com/RobotTelevision/primpkeeb) - Printable Modular Pico Pi Keyboard
 - [Baranowski/Viosuo](https://github.com/Baranowski/Viosuo) - 3D-printable hand-strapped keyboard
 - [chaosparrot/parrot.py](https://github.com/chaosparrot/parrot.py) - Computer interaction using audio and speechrecognition
