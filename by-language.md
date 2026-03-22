@@ -442,6 +442,7 @@
 
 ## JavaScript 
 
+- [jamesdiacono/Replete](https://github.com/jamesdiacono/Replete) - Run any JavaScript in any environment from any text editor.
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - a little engine for little games, worlds, and stories
 - [collidingScopes/arpeggiator](https://github.com/collidingScopes/arpeggiator) - Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Built with mediapipe computer vision, threejs, tonejs
 - [mbrowne/babel-dci](https://github.com/mbrowne/babel-dci) - Babel plugins for DCI programming
@@ -1153,7 +1154,7 @@
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
 - [dlip/tamatama](https://github.com/dlip/tamatama) - 28 Key Dactyl with dual trackballs
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [wordplaydev/wordplay](https://github.com/wordplaydev/wordplay) - An accessible, language-inclusive programming language and IDE for creating interactive typography on the web.
+- [wordplaydev/wordplay](https://github.com/wordplaydev/wordplay) - An accessible, language-inclusive, web-based educational programming language and IDE for creating interactive typography.
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
