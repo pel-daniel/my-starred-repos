@@ -1342,6 +1342,7 @@
 
 ## others 
 
+- [jamesdiacono/Replete](https://github.com/jamesdiacono/Replete) - Run any JavaScript in any environment from any text editor.
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [nature-of-order/pattern-language](https://github.com/nature-of-order/pattern-language) - A Pattern Language and related material in modern digital, accessible form.
 - [codepod-io/codepod](https://github.com/codepod-io/codepod) - Codepod IDE: Scalable Interactive Coding
@@ -1412,7 +1413,7 @@
 - [Sneftel/gull](https://github.com/Sneftel/gull) - An ergonomic keyboard made from laser-cut pieces
 - [ChrisChrisLoLo/modkipz40](https://github.com/ChrisChrisLoLo/modkipz40) - A pocket keyboard that uses mouse switches, now ergonomic :)
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
-- [wordplaydev/wordplay](https://github.com/wordplaydev/wordplay) - An accessible, language-inclusive programming language and IDE for creating interactive typography on the web.
+- [wordplaydev/wordplay](https://github.com/wordplaydev/wordplay) - An accessible, language-inclusive, web-based educational programming language and IDE for creating interactive typography.
 - [hyperlink-academy/pattern.kitchen](https://github.com/hyperlink-academy/pattern.kitchen) - 
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
 - [codewithkyle/supercomponent](https://github.com/codewithkyle/supercomponent) - Give your Web Components modern-day superpowers.
