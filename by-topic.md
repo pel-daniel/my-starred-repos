@@ -58,6 +58,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
@@ -618,6 +619,13 @@
 
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
+
+## distributed-systems 
+
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
+- [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
+- [lasp-lang/lasp](https://github.com/lasp-lang/lasp) - Prototype implementation of Lasp in Erlang.
 
 ## docker 
 
@@ -1651,7 +1659,6 @@
 - [JoshuaGrams/steno-jig](https://github.com/JoshuaGrams/steno-jig) - Browser-based Typing Drill Widget
 - [shamansir/noodle](https://github.com/shamansir/noodle) - Visual programming UI and framework driven by pure functional language and data streams
 - [ekmett/guanxi](https://github.com/ekmett/guanxi) - Relational programming in Haskell. Mostly developed on twitch.
-- [lasp-lang/lasp](https://github.com/lasp-lang/lasp) - Prototype implementation of Lasp in Erlang.
 - [MakotoKurauchi/helix](https://github.com/MakotoKurauchi/helix) - A compact split ortholinear keyboard.
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [fxn/tkn](https://github.com/fxn/tkn) - Terminal Keynote - A hack for terminal-based talks
