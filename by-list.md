@@ -90,7 +90,7 @@
 - [dlip/tamatama](https://github.com/dlip/tamatama) - 28 Key Dactyl with dual trackballs
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
 - [Finnitio/3dpcorne-shield-nodefree](https://github.com/Finnitio/3dpcorne-shield-nodefree) - 3dpcorne-shield with urob's zmk nodefree
-- [smallwat3r/sweep-cat](https://github.com/smallwat3r/sweep-cat) - A 30-key keyboard based on the Ferris Sweep 2.2, featuring the purr-fect code reviewer.
+- [smallwat3r/sweep-cat](https://github.com/smallwat3r/sweep-cat) - A 30-key keyboard based on the Ferris Sweep 2.2
 - [carrefinho/forager](https://github.com/carrefinho/forager) - 34-key wireless split keyboard inspired by ZSA Voyager
 - [protieusz/Sachiel](https://github.com/protieusz/Sachiel) - Sachiel, inspired by Grumpy, 34 keys custom keyboard with 25mm trackball
 - [radlinskii/mechabasilisk](https://github.com/radlinskii/mechabasilisk) - Ergonomic, split, 40%, handwired, "key-welled" keyboard using WeAct RP2040 boards designed in Fusion 360
