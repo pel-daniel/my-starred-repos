@@ -744,7 +744,7 @@
 - [dlip/harite-v2](https://github.com/dlip/harite-v2) - 
 - [ploopyco/nano-trackball](https://github.com/ploopyco/nano-trackball) - A very small trackball-only mouse. Mechanical files, PCBs, and firmware all included.
 - [carrefinho/forager](https://github.com/carrefinho/forager) - 34-key wireless split keyboard inspired by ZSA Voyager
-- [smallwat3r/sweep-cat](https://github.com/smallwat3r/sweep-cat) - A 30-key keyboard based on the Ferris Sweep 2.2, featuring the purr-fect code reviewer.
+- [smallwat3r/sweep-cat](https://github.com/smallwat3r/sweep-cat) - A 30-key keyboard based on the Ferris Sweep 2.2
 - [kaihchang/Ascend_splay_split_keyboard](https://github.com/kaihchang/Ascend_splay_split_keyboard) - 
 - [ChrisChrisLoLo/modkipz40](https://github.com/ChrisChrisLoLo/modkipz40) - A pocket keyboard that uses mouse switches, now ergonomic :)
 - [vvhg1/clp-keycaps](https://github.com/vvhg1/clp-keycaps) - MX compatible low profile ergonomic keycaps
