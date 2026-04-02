@@ -1783,7 +1783,7 @@
 - [netlify/staticgen](https://github.com/netlify/staticgen) - StaticGen.com, A leaderboard of top open-source static site generators
 - [ktec/phoenixphaserdemo](https://github.com/ktec/phoenixphaserdemo) - Building games with Phoenix and Phaser demo
 - [RamonGebben/react-perf-tool](https://github.com/RamonGebben/react-perf-tool) - [Deprecated] Debug performance of your React application
-- [schacon/grit](https://github.com/schacon/grit) - Grit is a Ruby library for extracting information from a git repository in an object oriented manner - this fork tries to intergrate as much pure-ruby functionality as possible
+- [schacon/grit-archive](https://github.com/schacon/grit-archive) - Grit is a Ruby library for extracting information from a git repository in an object oriented manner - this fork tries to intergrate as much pure-ruby functionality as possible
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
 - [dvdzkwsk/react-redux-starter-kit](https://github.com/dvdzkwsk/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
