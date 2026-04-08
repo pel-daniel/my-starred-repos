@@ -1348,6 +1348,7 @@
 
 ## others 
 
+- [lemio/ReverseProjection](https://github.com/lemio/ReverseProjection) - Project using a camera
 - [jamesdiacono/Replete](https://github.com/jamesdiacono/Replete) - Run any JavaScript in any environment from any text editor.
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [nature-of-order/pattern-language](https://github.com/nature-of-order/pattern-language) - A Pattern Language and related material in modern digital, accessible form.
