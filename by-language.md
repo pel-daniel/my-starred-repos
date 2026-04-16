@@ -1216,7 +1216,7 @@
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [sandersn/mini-typescript](https://github.com/sandersn/mini-typescript) - A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [ef4/mho](https://github.com/ef4/mho) - Experimental service-worker based build system
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [fwouts/codetree](https://github.com/fwouts/codetree) - CodeTree is an ES6 library (written in TypeScript) that helps transform code easily.
