@@ -435,7 +435,6 @@
 
 - [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
 - [panicz/grasp-android](https://github.com/panicz/grasp-android) - GRASP for Android
-- [dddjava/jig](https://github.com/dddjava/jig) - Javaでのコードによる設計を可視化によって支援するツール
 - [jcoplien/trygve](https://github.com/jcoplien/trygve) - The trygve language project - Building a DCI-centric language from the ground up
 - [amyjko/citrus-barista](https://github.com/amyjko/citrus-barista) - A programming language and user interface toolkit for creating structured editors.
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
@@ -477,6 +476,7 @@
 - [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
+- [dddjava/jig](https://github.com/dddjava/jig) - Javaでのコードによる設計を可視化によって支援するツール
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
