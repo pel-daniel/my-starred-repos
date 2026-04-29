@@ -26,6 +26,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -392,6 +393,11 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [skift-org/skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system (mirror)
 - [synfig/synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
+
+## c-sharp 
+
+- [OptiKey/OptiKey](https://github.com/OptiKey/OptiKey) - OptiKey - Full computer control and speech with your eyes
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
 ## chatbot 
@@ -1440,7 +1446,7 @@
 - [thlintw/clavert](https://github.com/thlintw/clavert) - Vertical, wireless, ergonomic split keyboard
 - [dschil138/Fulcrum](https://github.com/dschil138/Fulcrum) - The Fulcrum Keyboard is an ergo-mechanical split keyboard with extra thumb functionality. It has 20 keys, two rotary encoders, and two 5-way switches.
 - [skarrmann/umbra](https://github.com/skarrmann/umbra) - 24 key ergonomic keyboard with self-encasing PCB.
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [rianadon/dactyl-configurator](https://github.com/rianadon/dactyl-configurator) - Generate Dactyl keyboard designs from your browser.
 - [hayatpur/crosscode](https://github.com/hayatpur/crosscode) - 
 - [Blogger-Peer-Review/quotebacks](https://github.com/Blogger-Peer-Review/quotebacks) - Quote the web
@@ -1591,7 +1597,6 @@
 - [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations
 - [satt99/comet46-hardware](https://github.com/satt99/comet46-hardware) - Mechanical design files for the Comet46 keyboard
 - [rtitmuss/torn](https://github.com/rtitmuss/torn) - Torn keyboard
-- [OptiKey/OptiKey](https://github.com/OptiKey/OptiKey) - OptiKey - Full computer control and speech with your eyes
 - [prathyvsh/morphisms-of-computational-structures](https://github.com/prathyvsh/morphisms-of-computational-structures) - A visual catalogue + story of morphisms displayed across computational structures.
 - [PyrooL/Alpha](https://github.com/PyrooL/Alpha) - A 28-key semi-ortholinear mechanical keyboard designed by PyroL
 - [knadh/dragmove.js](https://github.com/knadh/dragmove.js) - A super tiny Javascript library to make DOM elements draggable and movable. ~500 bytes (minified+gzipped) and no dependencies.
