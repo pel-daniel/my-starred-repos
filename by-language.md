@@ -756,7 +756,7 @@
 - [lemosbor/lapa](https://github.com/lemosbor/lapa) - Эргономичная раздельная клавиатура-мышь «Лапа»
 - [WolfIcefang/dactyl-chimera-keyboard](https://github.com/WolfIcefang/dactyl-chimera-keyboard) - A mechanical keyboard designed for 3D printing, tinkering, and experimentation.
 - [thlintw/clavert](https://github.com/thlintw/clavert) - Vertical, wireless, ergonomic split keyboard
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [sanderboer/chonkybois](https://github.com/sanderboer/chonkybois) - 
 - [v0Ch/vfk-001](https://github.com/v0Ch/vfk-001) - Valkyrie folded keyboard (folded vertical dactyl on full size mx silent swityches) with removable stabilizer
 - [prathyvsh/nature-of-thought](https://github.com/prathyvsh/nature-of-thought) - Catalogue on the nature and bounds of thought
@@ -773,7 +773,6 @@
 - [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis) - 
 - [AlexBaldwin42/Charybdis](https://github.com/AlexBaldwin42/Charybdis) - 
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [ThereminGoat/switch-scores](https://github.com/ThereminGoat/switch-scores) - PDF Repository of switch score sheets.
@@ -1030,6 +1029,7 @@
 - [joshmarinacci/clogwench](https://github.com/joshmarinacci/clogwench) - 
 - [stacked-git/stgit](https://github.com/stacked-git/stgit) - Stacked Git
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
