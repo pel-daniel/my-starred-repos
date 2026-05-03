@@ -513,6 +513,7 @@
 - [eggplanetio/mert](https://github.com/eggplanetio/mert) - ▢ An iTerm 3-compatible window, tab, and pane manager.
 - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [halfzebra/create-elm-app](https://github.com/halfzebra/create-elm-app) - 🍃 Create Elm apps with zero configuration
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [sdras/array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
 - [ResiliaDev/Planga](https://github.com/ResiliaDev/Planga) - Planga: Seamless Instant Chat Service
 - [unconed/TermKit](https://github.com/unconed/TermKit) - Experimental Terminal platform built on WebKit + node.js. Currently only for Mac and Windows, though the prototype works 90% in any WebKit browser.
@@ -697,7 +698,6 @@
 ## Nunjucks 
 
 - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [joshuacc/prose-for-programmers](https://github.com/joshuacc/prose-for-programmers) - A book to help software developers write better prose
 
 ## OCaml 
