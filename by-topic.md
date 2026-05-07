@@ -32,6 +32,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -255,7 +256,7 @@
 
 ## ai-agents 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -425,6 +426,10 @@
 
 - [dejan/rails_panel](https://github.com/dejan/rails_panel) - Chrome extension for Rails development
 
+## claude-code 
+
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
+
 ## cli 
 
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
@@ -464,7 +469,7 @@
 
 ## code 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
@@ -1321,7 +1326,7 @@
 
 ## obsidian 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 
 ## obsidian-md 
 
@@ -1329,7 +1334,7 @@
 
 ## obsidian-plugin 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 
 ## open-source 
@@ -2417,7 +2422,7 @@
 
 ## typescript 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D cyberpunk city dashboard for Obsidian — visualize projects as buildings, monitor AI agents in real-time, launch Claude Code with a right-click
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
