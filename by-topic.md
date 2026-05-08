@@ -1417,7 +1417,6 @@
 - [smallwat3r/sweep-cat](https://github.com/smallwat3r/sweep-cat) - A 30-key keyboard based on the Ferris Sweep 2.2
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [team-watchdog/colombo-skylines](https://github.com/team-watchdog/colombo-skylines) - A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: Skylines, based on real data. Nearly 1:1 in terms of geography and population.
-- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [knitscape/knitscape](https://github.com/knitscape/knitscape) - Knitscape is a chart-based design and simulation tool for knitting stitch patterns.
 - [joshmarinacci/idealos-ui-toolkit](https://github.com/joshmarinacci/idealos-ui-toolkit) - 
 - [kaBeech/tensort](https://github.com/kaBeech/tensort) - Tunable sorting for responsive robustness and beyond
@@ -2280,6 +2279,7 @@
 ## self-hosted 
 
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
