@@ -633,7 +633,6 @@
 
 ## devops 
 
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 
 ## distributed-systems 
