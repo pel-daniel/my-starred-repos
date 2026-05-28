@@ -1698,7 +1698,7 @@
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [lachenmayer/arrowsmith](https://github.com/lachenmayer/arrowsmith) - Augmented editor for Elm.
 - [chrisuehlinger/LambdaBubblePop](https://github.com/chrisuehlinger/LambdaBubblePop) - 
-- [ivanreese/visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
+- [ivyreese/visual-programming-codex](https://github.com/ivyreese/visual-programming-codex) - Waypoints to the past and future of visual programming.
 - [AnotherTest/-English](https://github.com/AnotherTest/-English) - (Not quite) English as a programming language.
 - [ryanwi/hiringtrends](https://github.com/ryanwi/hiringtrends) - Tracking the most popular programming languagues and tools on Hacker News whoishiring posts
 - [codrops/SlideOutBoxMenu](https://github.com/codrops/SlideOutBoxMenu) - A details menu with boxes that slide out in an irregular grid https://tympanus.net/codrops/?p=35517
