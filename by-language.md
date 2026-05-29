@@ -1145,7 +1145,7 @@
 - [folk-js/folkjs](https://github.com/folk-js/folkjs) - An umbrella of radically different directions that we can interface with the web.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [joshmarinacci/idealos-ui-toolkit](https://github.com/joshmarinacci/idealos-ui-toolkit) - 
 - [neuroprod/webgpu](https://github.com/neuroprod/webgpu) - WebGPU Game
 - [boltex/leojs](https://github.com/boltex/leojs) - Leo Literate Editor with Outline in Typescript
