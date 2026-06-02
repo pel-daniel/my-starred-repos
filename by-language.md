@@ -564,7 +564,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [sgwilym/relay-visual-learners](https://github.com/sgwilym/relay-visual-learners) - An interactive diagram of Relay Classic.
-- [trebor/algebranch](https://github.com/trebor/algebranch) - 
+- [trebor/algebranch-legacy](https://github.com/trebor/algebranch-legacy) - 
 - [rtfeldman/elm-in-action](https://github.com/rtfeldman/elm-in-action) - Resources for the Elm In Action book.
 - [swndr/dual](https://github.com/swndr/dual) - dual
 - [shamansir/rpd](https://github.com/shamansir/rpd) - :ok_hand: A Minimal Engine for creating Node-Based Visual Programming User Interfaces
