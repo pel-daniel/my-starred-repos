@@ -1770,7 +1770,7 @@
 - [milmazz/func_geo](https://github.com/milmazz/func_geo) - Functional Geometry with Elixir
 - [girba/themoosebook](https://github.com/girba/themoosebook) - The Moose Book
 - [jareware/css-architecture](https://github.com/jareware/css-architecture) - 8 simple rules for a robust, scalable CSS architecture
-- [trebor/algebranch](https://github.com/trebor/algebranch) - 
+- [trebor/algebranch-legacy](https://github.com/trebor/algebranch-legacy) - 
 - [jdubray/sam-samples](https://github.com/jdubray/sam-samples) - 
 - [willmruzek/recall-elm](https://github.com/willmruzek/recall-elm) - 
 - [Fresheyeball/elm-return](https://github.com/Fresheyeball/elm-return) - Writer powered pipelining for `(model, Cmd msg)`
