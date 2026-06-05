@@ -375,7 +375,6 @@
 - [marianoguerra/future-of-coding-weekly](https://github.com/marianoguerra/future-of-coding-weekly) - repository to work on future of coding weekly newsletter
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
-- [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [MaximeBlondel/organized-coding-tools-for-le-wagon-newbies](https://github.com/MaximeBlondel/organized-coding-tools-for-le-wagon-newbies) - Just finished Le Wagon Paris (Batch #100) and classified in a Google Chrome "favorites" folder a lot of tools/resources that Le Wagon blew us + some personal finds. If other newbies are interested, I 
 - [jackschaedler/jazzari](https://github.com/jackschaedler/jazzari) - Programmable Band in Your Browser
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
