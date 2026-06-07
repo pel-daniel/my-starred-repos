@@ -307,7 +307,7 @@
 
 ## Emacs Lisp 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K 
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K vi
 - [ethan-leba/tree-edit](https://github.com/ethan-leba/tree-edit) - 🌲   Structural editing in Emacs for any™ language!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [ag91/moldable-emacs](https://github.com/ag91/moldable-emacs) - Adapting Emacs for moldable development
@@ -441,6 +441,7 @@
 
 ## JavaScript 
 
+- [tikimcfee/glyph3d-js](https://github.com/tikimcfee/glyph3d-js) - Glyph3D but for the webbies
 - [lemio/ReverseProjection](https://github.com/lemio/ReverseProjection) - Project using a camera
 - [jamesdiacono/Replete](https://github.com/jamesdiacono/Replete) - Run any JavaScript in any environment from any text editor.
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - a little engine for little games, worlds, and stories
