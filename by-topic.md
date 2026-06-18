@@ -1562,7 +1562,7 @@
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [langjam/langjam](https://github.com/langjam/langjam) - 
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
-- [h2ero/XEasyMotion](https://github.com/h2ero/XEasyMotion) - keynav for macOS ( OS X ) , using keyboard control mouse.
+- [makerneo-com/XEasyMotion](https://github.com/makerneo-com/XEasyMotion) - keynav for macOS ( OS X ) , using keyboard control mouse.
 - [keytty/shelter](https://github.com/keytty/shelter) - A shelter for a moving Keytty
 - [xcodebuild/cerebro-mac-switch-window](https://github.com/xcodebuild/cerebro-mac-switch-window) - Cerebro plugin to switch window on macOS
 - [dpapavas/lagrange-keyboard](https://github.com/dpapavas/lagrange-keyboard) - A configurable, handwired, ergonomic keyboard
