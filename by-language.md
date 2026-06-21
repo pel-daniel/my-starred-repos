@@ -82,6 +82,8 @@
 
 ## C 
 
+- [yuburoll/PISIC](https://github.com/yuburoll/PISIC) - 42-44key row staggered split keyboard with GRIN inspired layout under 102mm pcb
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [radlinskii/basilisk](https://github.com/radlinskii/basilisk) - Basilisk is an ergonomic, split, 40%, handwired, "key-welled" keyboard using WeAct RP2040 boards designed in Fusion 360
 - [radlinskii/mechabasilisk](https://github.com/radlinskii/mechabasilisk) - Ergonomic, split, 40%, handwired, "key-welled" keyboard using WeAct RP2040 boards designed in Fusion 360
 - [protieusz/Sachiel](https://github.com/protieusz/Sachiel) - Sachiel, inspired by Grumpy, 34 keys custom keyboard with 25mm trackball
@@ -881,6 +883,7 @@
 
 ## Python 
 
+- [JRiggles/DELPHI-kbd](https://github.com/JRiggles/DELPHI-kbd) - Dual Ergolinear Low-Profile Human Interface
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - A calligraphic esolang
 - [maxencefaldor/cax](https://github.com/maxencefaldor/cax) - Cellular Automata Accelerated in JAX (Oral at ICLR 2025)
@@ -1127,6 +1130,7 @@
 
 ## TypeScript 
 
+- [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming editor based on data transformation
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [codepod-io/codepod](https://github.com/codepod-io/codepod) - Codepod IDE: Scalable Interactive Coding
