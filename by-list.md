@@ -99,6 +99,7 @@
 - [ploopyco/nano-trackball](https://github.com/ploopyco/nano-trackball) - A very small trackball-only mouse. Mechanical files, PCBs, and firmware all included.
 - [dlip/harite-v2](https://github.com/dlip/harite-v2) - 
 - [timwenger/RedCedarDocs](https://github.com/timwenger/RedCedarDocs) - Documentation for building my "Western Cedar" split keyboard, running this QMK software: https://github.com/timwenger/qmk_firmware
+- [yuburoll/PISIC](https://github.com/yuburoll/PISIC) - 42-44key row staggered split keyboard with GRIN inspired layout under 102mm pcb
 
 <a name="lua"></a>
 
