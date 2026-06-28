@@ -1372,6 +1372,8 @@
 
 ## others 
 
+- [aryx/xix](https://github.com/aryx/xix) - Plan 9 programs ported to OCaml https://aryx.github.io/xix/index.html
+- [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
 - [yuburoll/PISIC](https://github.com/yuburoll/PISIC) - 42-44key row staggered split keyboard with GRIN inspired layout under 102mm pcb
 - [JRiggles/DELPHI-kbd](https://github.com/JRiggles/DELPHI-kbd) - Dual Ergolinear Low-Profile Human Interface
 - [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming editor based on data transformation
@@ -1387,7 +1389,7 @@
 - [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football datasets in the Football.TXT format for the World Cup (incl. Canada/USA/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [zeljkoobrenovic/sokrates](https://github.com/zeljkoobrenovic/sokrates) - A polyglot source code examination tool
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [t0mpr1c3/knotty](https://github.com/t0mpr1c3/knotty) - A domain-specific language for knitting patterns
 - [StudioPlatforms/plain-lang](https://github.com/StudioPlatforms/plain-lang) - Plain is a minimalist, English-like programming language that makes coding feel like natural conversation. Write clear, readable programs using everyday language instead of cryptic symbols.  Features:
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
