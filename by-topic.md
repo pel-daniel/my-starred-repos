@@ -116,6 +116,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -1121,6 +1122,12 @@
 ## latex 
 
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON
+
+## learn-to-code 
+
+- [google/codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
 ## learning 
 
