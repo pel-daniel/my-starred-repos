@@ -1384,7 +1384,7 @@
 - [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
 - [yuburoll/PISIC](https://github.com/yuburoll/PISIC) - 42-44key row staggered split keyboard with GRIN inspired layout under 102mm pcb
 - [JRiggles/DELPHI-kbd](https://github.com/JRiggles/DELPHI-kbd) - Dual Ergolinear Low-Profile Human Interface
-- [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming editor based on data transformation
+- [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming by chaining operations on data
 - [tikimcfee/glyph3d-js](https://github.com/tikimcfee/glyph3d-js) - Glyph3D but for the webbies
 - [lemio/ReverseProjection](https://github.com/lemio/ReverseProjection) - Project using a camera
 - [jamesdiacono/Replete](https://github.com/jamesdiacono/Replete) - Run any JavaScript in any environment from any text editor.
