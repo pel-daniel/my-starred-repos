@@ -1133,7 +1133,7 @@
 
 ## TypeScript 
 
-- [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming editor based on data transformation
+- [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming by chaining operations on data
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
 - [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [codepod-io/codepod](https://github.com/codepod-io/codepod) - Codepod IDE: Scalable Interactive Coding
