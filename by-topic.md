@@ -32,6 +32,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -427,6 +428,10 @@
 ## chrome-extension 
 
 - [dejan/rails_panel](https://github.com/dejan/rails_panel) - Chrome extension for Rails development
+
+## claude 
+
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 
 ## claude-code 
 
