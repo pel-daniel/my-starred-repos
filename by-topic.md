@@ -883,6 +883,7 @@
 
 ## hacktoberfest 
 
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
@@ -1421,7 +1422,7 @@
 - [mbrowne/babel-dci](https://github.com/mbrowne/babel-dci) - Babel plugins for DCI programming
 - [empressabyss/nordrassil](https://github.com/empressabyss/nordrassil) - A keyboard layout that provides an elegant and balanced typing experience by its use of a thumb-alpha, emphasis on middle fingers, deprioritisation of pinkies, and arcane keys.
 - [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
-- [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - A calligraphic esolang
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [billbudge/WebEditorFramework](https://github.com/billbudge/WebEditorFramework) - Diagram editing app framework, in TypeScript.
@@ -2147,6 +2148,7 @@
 
 ## react 
 
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -2448,6 +2450,7 @@
 
 ## typescript 
 
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
