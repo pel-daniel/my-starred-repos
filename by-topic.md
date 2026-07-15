@@ -260,7 +260,7 @@
 
 ## ai-agents 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -432,12 +432,12 @@
 
 ## claude 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 
 ## claude-code 
 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 
 ## cli 
 
@@ -479,7 +479,6 @@
 
 ## code 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
@@ -591,6 +590,7 @@
 
 ## data-visualization 
 
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 
@@ -1346,7 +1346,7 @@
 
 ## obsidian 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 
 ## obsidian-md 
@@ -1355,7 +1355,7 @@
 
 ## obsidian-plugin 
 
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 
 ## open-source 
@@ -2455,7 +2455,7 @@
 ## typescript 
 
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
-- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - 3D project dashboard for Obsidian. Visualize notes as a code city, track Git activity, inspect project status, and launch AI coding agents from your vault.
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
