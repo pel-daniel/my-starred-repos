@@ -1764,7 +1764,7 @@
 - [jackschaedler/jazzari](https://github.com/jackschaedler/jazzari) - Programmable Band in Your Browser
 - [rnosov/react-reveal](https://github.com/rnosov/react-reveal) - Easily add reveal on scroll animations to your React app
 - [jhrcek/graph-editor](https://github.com/jhrcek/graph-editor) - Simple editor for creating graphs implemented purely in Elm.
-- [projectured/projectured](https://github.com/projectured/projectured) - ProjecturEd is a generic purpose projectional editor.
+- [projectured/projectured-lisp](https://github.com/projectured/projectured-lisp) - ProjecturEd is a generic purpose projectional editor.
 - [visionmedia/move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 - [daniel-kun/omni](https://github.com/daniel-kun/omni) - The Omni Programming Language
 - [gokr/spry](https://github.com/gokr/spry) - A Smalltalk and Rebol inspired language implemented as an AST interpreter in Nim
