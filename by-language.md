@@ -212,7 +212,7 @@
 - [froggey/Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [honix/Lire](https://github.com/honix/Lire) - Visual programming tool based on Common Lisp
-- [projectured/projectured](https://github.com/projectured/projectured) - ProjecturEd is a generic purpose projectional editor.
+- [projectured/projectured-lisp](https://github.com/projectured/projectured-lisp) - ProjecturEd is a generic purpose projectional editor.
 
 ## Crystal 
 
