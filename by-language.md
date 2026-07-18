@@ -255,7 +255,7 @@
 - [elixir-ecto/connection](https://github.com/elixir-ecto/connection) - Connection behaviour for connection processes
 - [philss/floki](https://github.com/philss/floki) - Floki is a simple HTML parser that enables search for nodes using CSS selectors.
 - [elixirscript/elixirscript](https://github.com/elixirscript/elixirscript) - Converts Elixir to JavaScript
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [cpjk/canary](https://github.com/cpjk/canary) - :hatching_chick: Elixir authorization and resource-loading library for Plug applications.
 - [sugar-framework/sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir
 - [oreillymedia/etudes-for-elixir](https://github.com/oreillymedia/etudes-for-elixir) - Companion exercises for Introducing Elixir
