@@ -1902,7 +1902,7 @@
 - [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 - [evancz/elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app
 - [elixir-ecto/connection](https://github.com/elixir-ecto/connection) - Connection behaviour for connection processes
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Simple from zero to scale
 - [chrismccord/phoenix_chat_example](https://github.com/chrismccord/phoenix_chat_example) - 
 - [sugar-framework/sugar](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir
 - [williamdemeo/TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
