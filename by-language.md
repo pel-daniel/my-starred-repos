@@ -52,6 +52,7 @@
 - [Prolog](#prolog)
 - [PureScript](#purescript)
 - [Python](#python)
+- [QML](#qml)
 - [R](#r)
 - [Racket](#racket)
 - [Reason](#reason)
@@ -886,7 +887,7 @@
 ## Python 
 
 - [JRiggles/DELPHI-kbd](https://github.com/JRiggles/DELPHI-kbd) - Dual Ergolinear Low-Profile Human Interface
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - A calligraphic esolang
 - [maxencefaldor/cax](https://github.com/maxencefaldor/cax) - Cellular Automata Accelerated in JAX (Oral at ICLR 2025)
 - [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - [ICCV'25]DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
@@ -930,6 +931,10 @@
 - [asweigart/tortuga](https://github.com/asweigart/tortuga) - Une mise en œuvre espagnole du module de turtle.py de Python.
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [j-mcnally/ansible-rails](https://github.com/j-mcnally/ansible-rails) - A collection of playbooks for getting your rails stack up and running fast!
+
+## QML 
+
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 
 ## R 
 
@@ -1089,7 +1094,6 @@
 
 ## Shell 
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
