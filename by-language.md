@@ -52,7 +52,6 @@
 - [Prolog](#prolog)
 - [PureScript](#purescript)
 - [Python](#python)
-- [QML](#qml)
 - [R](#r)
 - [Racket](#racket)
 - [Reason](#reason)
@@ -932,10 +931,6 @@
 - [pixie-lang/pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
 - [j-mcnally/ansible-rails](https://github.com/j-mcnally/ansible-rails) - A collection of playbooks for getting your rails stack up and running fast!
 
-## QML 
-
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-
 ## R 
 
 - [Viri-Rios/NoEsNormal](https://github.com/Viri-Rios/NoEsNormal) - 
@@ -1094,6 +1089,7 @@
 
 ## Shell 
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jaromaz/MacintoshPi](https://github.com/jaromaz/MacintoshPi) - MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi.
