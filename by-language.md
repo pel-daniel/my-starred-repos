@@ -369,7 +369,6 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [codewithkyle/supercomponent](https://github.com/codewithkyle/supercomponent) - Give your Web Components modern-day superpowers.
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [aberke/coloring-book](https://github.com/aberke/coloring-book) - This is a Coloring Book about Group Theory
 - [tzarc/keyboards](https://github.com/tzarc/keyboards) - @tzarc's custom keyboard designs.
 - [cloxp/cloxp-install](https://github.com/cloxp/cloxp-install) - Clojure IDE for explorative and interactive development.
@@ -456,6 +455,7 @@
 - [knitscape/knitscape](https://github.com/knitscape/knitscape) - Knitscape is a chart-based design and simulation tool for knitting stitch patterns.
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [hyperlink-academy/pattern.kitchen](https://github.com/hyperlink-academy/pattern.kitchen) - 
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [felipereigosa/kairon](https://github.com/felipereigosa/kairon) - A VR Code Editor
 - [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
 - [Blogger-Peer-Review/quotebacks](https://github.com/Blogger-Peer-Review/quotebacks) - Quote the web
