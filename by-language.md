@@ -533,7 +533,7 @@
 - [joshmarinacci/semantic-editor-js](https://github.com/joshmarinacci/semantic-editor-js) - A web-based semantic WYSIWYG editor
 - [vladimir-vg/batiscaph](https://github.com/vladimir-vg/batiscaph) - Currently inactive. Erlang trace visualizer.
 - [droplet-editor/droplet](https://github.com/droplet-editor/droplet) - Block language reenvisioned as a text editor
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [electronicwhisper/recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [amyjko/Gidget](https://github.com/amyjko/Gidget) - Computing education through playful debugging
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
