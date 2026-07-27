@@ -886,7 +886,7 @@
 ## Python 
 
 - [JRiggles/DELPHI-kbd](https://github.com/JRiggles/DELPHI-kbd) - Dual Ergolinear Low-Profile Human Interface
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - A calligraphic esolang
 - [maxencefaldor/cax](https://github.com/maxencefaldor/cax) - Cellular Automata Accelerated in JAX (Oral at ICLR 2025)
 - [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - [ICCV'25]DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
