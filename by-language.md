@@ -79,10 +79,10 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## C 
 
-- [aryx/xix](https://github.com/aryx/xix) - Plan 9 programs ported to OCaml https://aryx.github.io/xix/index.html
 - [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
 - [yuburoll/PISIC](https://github.com/yuburoll/PISIC) - 42-44key row staggered split keyboard with GRIN inspired layout under 102mm pcb
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
@@ -375,7 +375,6 @@
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [WICG/import-maps](https://github.com/WICG/import-maps) - Former home of import maps (now merged into HTML)
 - [marianoguerra/future-of-coding-weekly](https://github.com/marianoguerra/future-of-coding-weekly) - repository to work on future of coding weekly newsletter
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
 - [MaximeBlondel/organized-coding-tools-for-le-wagon-newbies](https://github.com/MaximeBlondel/organized-coding-tools-for-le-wagon-newbies) - Just finished Le Wagon Paris (Batch #100) and classified in a Google Chrome "favorites" folder a lot of tools/resources that Le Wagon blew us + some personal finds. If other newbies are interested, I 
 - [jackschaedler/jazzari](https://github.com/jackschaedler/jazzari) - Programmable Band in Your Browser
@@ -706,6 +705,7 @@
 ## OCaml 
 
 - [aryx/mmm](https://github.com/aryx/mmm) - pad's fork of OCaml MMM Web browser
+- [aryx/xix](https://github.com/aryx/xix) - Plan 9 programs ported to OCaml https://aryx.github.io/xix/index.html
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [mcclure/emily](https://github.com/mcclure/emily) - Git mirror of https://bitbucket.org/runhello/emily
 - [kmicinski/cmsc330examples](https://github.com/kmicinski/cmsc330examples) - Examples from the class CMSC 330 during Summer 2015
@@ -1011,7 +1011,7 @@
 
 ## Rust 
 
-- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs
+- [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
 - [Ella-Hoeppner/easl](https://github.com/Ella-Hoeppner/easl) - Enhanced Abstraction Shader Language, a functional shader language written in Rust
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
