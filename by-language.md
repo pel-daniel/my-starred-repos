@@ -148,7 +148,6 @@
 
 ## CSS 
 
-- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [0kzh/minimal-youtube](https://github.com/0kzh/minimal-youtube) - Arc Boost to clean up the YouTube UI
 - [maxfriedrich/quiet-facebook](https://github.com/maxfriedrich/quiet-facebook) - Hide Facebook's News Feed
 - [kalutheo/elm-ui-explorer](https://github.com/kalutheo/elm-ui-explorer) - 
@@ -1144,6 +1143,7 @@
 - [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [pmndrs/timeline](https://github.com/pmndrs/timeline) - → Write composable 3D behaviors like a story.
+- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
