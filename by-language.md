@@ -1119,7 +1119,7 @@
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify & Apple Music in your macOS menu bar
-- [makerneo-com/XEasyMotion](https://github.com/makerneo-com/XEasyMotion) - keynav for macOS ( OS X ) , using keyboard control mouse.
+- [makerneolab/XEasyMotion](https://github.com/makerneolab/XEasyMotion) - keynav for macOS ( OS X ) , using keyboard control mouse.
 - [xcodebuild/cerebro-mac-switch-window](https://github.com/xcodebuild/cerebro-mac-switch-window) - Cerebro plugin to switch window on macOS
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
