@@ -763,7 +763,7 @@
 - [sanderboer/chonkybois](https://github.com/sanderboer/chonkybois) - 
 - [v0Ch/vfk-001](https://github.com/v0Ch/vfk-001) - Valkyrie folded keyboard (folded vertical dactyl on full size mx silent swityches) with removable stabilizer
 - [prathyvsh/nature-of-thought](https://github.com/prathyvsh/nature-of-thought) - Catalogue on the nature and bounds of thought
-- [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
+- [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - Archived — Spark Joy now lives on Forge.
 - [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
