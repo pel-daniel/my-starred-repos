@@ -662,7 +662,7 @@
 
 ## documentation 
 
-- [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
+- [yujonglee/canary](https://github.com/yujonglee/canary) - Algolia alternative for technical docs
 - [raunofreiberg/ui-playbook](https://github.com/raunofreiberg/ui-playbook) - The documented collection of UI components 🤓
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
