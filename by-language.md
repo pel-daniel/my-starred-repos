@@ -120,6 +120,7 @@
 - [erikmwerner/QJoyControl](https://github.com/erikmwerner/QJoyControl) - Use Nintendo Switch JoyCons to control your Mac
 - [mafik/automat](https://github.com/mafik/automat) - A tangible interface for virtual things
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [berthubert/trifecta](https://github.com/berthubert/trifecta) - educational image sharing website built on a combination  of modern C++, web and database technologies
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
@@ -219,7 +220,7 @@
 
 ## Elixir 
 
-- [fastrepl/canary](https://github.com/fastrepl/canary) - Algolia alternative for technical docs
+- [yujonglee/canary](https://github.com/yujonglee/canary) - Algolia alternative for technical docs
 - [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
 - [jonklein/niex](https://github.com/jonklein/niex) - Niex is an interactive Elixir code notebook built with Phoenix LiveView.
@@ -447,7 +448,6 @@
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - a little engine for little games, worlds, and stories
 - [collidingScopes/arpeggiator](https://github.com/collidingScopes/arpeggiator) - Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Built with mediapipe computer vision, threejs, tonejs
 - [mbrowne/babel-dci](https://github.com/mbrowne/babel-dci) - Babel plugins for DCI programming
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [knitscape/knitscape](https://github.com/knitscape/knitscape) - Knitscape is a chart-based design and simulation tool for knitting stitch patterns.
