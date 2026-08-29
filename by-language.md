@@ -612,7 +612,7 @@
 - [flowhub/the-graph](https://github.com/flowhub/the-graph) - SVG custom elements for FBP graph editing and visualization. Used in noflo/noflo-ui
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [HashNuke/mogo-chat](https://github.com/HashNuke/mogo-chat) - Beautiful team chat app written in Elixir & Ember.js
 - [chrismccord/phoenix_chat_example](https://github.com/chrismccord/phoenix_chat_example) - 
 - [hisekaldma/Polyhymnia](https://github.com/hisekaldma/Polyhymnia) - Music programming language
