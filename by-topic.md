@@ -1394,7 +1394,7 @@
 
 ## others 
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [aryx/mmm](https://github.com/aryx/mmm) - pad's fork of OCaml MMM Web browser
 - [aryx/xix](https://github.com/aryx/xix) - Plan 9 programs ported to OCaml https://aryx.github.io/xix/index.html
 - [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
