@@ -1630,7 +1630,7 @@
 - [joshmarinacci/filament-lang](https://github.com/joshmarinacci/filament-lang) - Filament programming language
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
-- [yfuku/claw44](https://github.com/yfuku/claw44) - A split keyboard with 3x6 vertically staggered keys and 4 thumb keys
+- [dailycraftkeyboard/claw44](https://github.com/dailycraftkeyboard/claw44) - A split keyboard with 3x6 vertically staggered keys and 4 thumb keys
 - [jhaip/programmable-space](https://github.com/jhaip/programmable-space) - Bringing computing to the scale of a room makes it a communal and social experience.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [joshmarinacci/filament-gui](https://github.com/joshmarinacci/filament-gui) - 
