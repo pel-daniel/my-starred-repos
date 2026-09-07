@@ -807,7 +807,7 @@
 - [hanhanhan-kim/bloid40](https://github.com/hanhanhan-kim/bloid40) - A 40% Bluetooth ortholinear keyboard
 - [drever/ct-consciousness](https://github.com/drever/ct-consciousness) - 
 - [KGOH/Jian-Info](https://github.com/KGOH/Jian-Info) - Jian keyboard info repository
-- [yfuku/claw44](https://github.com/yfuku/claw44) - A split keyboard with 3x6 vertically staggered keys and 4 thumb keys
+- [dailycraftkeyboard/claw44](https://github.com/dailycraftkeyboard/claw44) - A split keyboard with 3x6 vertically staggered keys and 4 thumb keys
 - [stereobooster/programming-languages-genealogical-tree](https://github.com/stereobooster/programming-languages-genealogical-tree) - Programming languages genealogical tree
 - [prathyvsh/morphisms-of-computational-structures](https://github.com/prathyvsh/morphisms-of-computational-structures) - A visual catalogue + story of morphisms displayed across computational structures.
 - [PyrooL/Alpha](https://github.com/PyrooL/Alpha) - A 28-key semi-ortholinear mechanical keyboard designed by PyroL
