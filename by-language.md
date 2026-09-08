@@ -616,7 +616,6 @@
 - [HashNuke/mogo-chat](https://github.com/HashNuke/mogo-chat) - Beautiful team chat app written in Elixir & Ember.js
 - [chrismccord/phoenix_chat_example](https://github.com/chrismccord/phoenix_chat_example) - 
 - [hisekaldma/Polyhymnia](https://github.com/hisekaldma/Polyhymnia) - Music programming language
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [julianshapiro/blast](https://github.com/julianshapiro/blast) - Blast text apart to make it manipulable.
 - [machty/emblem.js](https://github.com/machty/emblem.js) - Emblem.js - Ember-friendly, indented syntax alternative for Handlebars.js
@@ -1089,6 +1088,7 @@
 
 ## Shell 
 
+- [jimmyhmiller/coil](https://github.com/jimmyhmiller/coil) - 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -1136,6 +1136,7 @@
 
 ## TypeScript 
 
+- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a skill for your coding
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming by chaining operations on data
 - [adithya-s-k/GitVizz](https://github.com/adithya-s-k/GitVizz) - Visualize and analyze GitHub or local repositories using LLM-friendly summaries, file structure, and interactive dependency graphs.
@@ -1273,6 +1274,7 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [orbitjs/orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
