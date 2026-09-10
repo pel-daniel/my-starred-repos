@@ -362,7 +362,6 @@
 
 ## HTML 
 
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [AllenInstitute/microns_tutorial](https://github.com/AllenInstitute/microns_tutorial) - MICrONS databook and analysis tutorials
 - [team-watchdog/colombo-skylines](https://github.com/team-watchdog/colombo-skylines) - A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: Skylines, based on real data. Nearly 1:1 in terms of geography and population.
@@ -1010,6 +1009,7 @@
 
 ## Rust 
 
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
 - [Ella-Hoeppner/easl](https://github.com/Ella-Hoeppner/easl) - Enhanced Abstraction Shader Language, a functional shader language written in Rust
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
