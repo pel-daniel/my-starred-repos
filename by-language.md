@@ -1136,6 +1136,7 @@
 
 ## TypeScript 
 
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a skill for your coding
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [aadityabhusal/logicflow](https://github.com/aadityabhusal/logicflow) - Visual programming by chaining operations on data
