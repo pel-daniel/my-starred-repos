@@ -702,7 +702,7 @@
 ## OCaml 
 
 - [aryx/mmm](https://github.com/aryx/mmm) - pad's fork of OCaml MMM Web browser
-- [aryx/xix](https://github.com/aryx/xix) - Plan 9 programs ported to OCaml https://aryx.github.io/xix/index.html
+- [aryx/xix](https://github.com/aryx/xix) - Plan 9 programs ported to OCaml https://aryx.github.io/xix
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [mcclure/emily](https://github.com/mcclure/emily) - Git mirror of https://bitbucket.org/runhello/emily
 - [kmicinski/cmsc330examples](https://github.com/kmicinski/cmsc330examples) - Examples from the class CMSC 330 during Summer 2015
