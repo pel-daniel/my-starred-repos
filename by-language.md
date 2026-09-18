@@ -883,6 +883,7 @@
 
 ## Python 
 
+- [jimmyhmiller/coil](https://github.com/jimmyhmiller/coil) - 
 - [JRiggles/DELPHI-kbd](https://github.com/JRiggles/DELPHI-kbd) - Dual Ergolinear Low-Profile Human Interface
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [rottytooth/Rivulet](https://github.com/rottytooth/Rivulet) - A calligraphic esolang
@@ -1088,7 +1089,6 @@
 
 ## Shell 
 
-- [jimmyhmiller/coil](https://github.com/jimmyhmiller/coil) - 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [KinesisCorporation/Adv360-Pro-ZMK](https://github.com/KinesisCorporation/Adv360-Pro-ZMK) - Production repository for the all-new Advantage360 Professional using ZMK engine
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -1136,6 +1136,7 @@
 
 ## TypeScript 
 
+- [inkandswitch/inkling](https://github.com/inkandswitch/inkling) - archived prototype for sketching dynamic models
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a skill for your coding
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
