@@ -1408,6 +1408,7 @@
 
 ## others 
 
+- [inkandswitch/inkling](https://github.com/inkandswitch/inkling) - archived prototype for sketching dynamic models
 - [jimmyhmiller/coil](https://github.com/jimmyhmiller/coil) - 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [aryx/mmm](https://github.com/aryx/mmm) - pad's fork of OCaml MMM Web browser
