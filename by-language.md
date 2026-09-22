@@ -1021,6 +1021,7 @@
 - [StudioPlatforms/plain-lang](https://github.com/StudioPlatforms/plain-lang) - Plain is a minimalist, English-like programming language that makes coding feel like natural conversation. Write clear, readable programs using everyday language instead of cryptic symbols.  Features:
 - [vic/van](https://github.com/vic/van) - command line structured editor in rust (bubbletea-rs TUI)
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [willpuckett/ehrbl](https://github.com/willpuckett/ehrbl) - 🍂 is in the air...
@@ -1152,7 +1153,6 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [jamesbvaughan/bidirectional-number-editor](https://github.com/jamesbvaughan/bidirectional-number-editor) - A demonstration of text/GUI bi-directional editing via an LSP server
 - [tpetricek/tiny-boxer](https://github.com/tpetricek/tiny-boxer) - A tiny programming system inspired by Boxer leveraging the HTML DOM structure. Illustrates naive realism, explicit structure and evaluation by copy & replace.
 - [Azeirah/ma](https://github.com/Azeirah/ma) - Ma language, a JavaScript implementation of Realtalk
