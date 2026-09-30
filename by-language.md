@@ -1150,7 +1150,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [pmndrs/timeline](https://github.com/pmndrs/timeline) - → Write composable 3D behaviors like a story.
 - [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
@@ -1161,7 +1161,7 @@
 - [folk-js/folkjs](https://github.com/folk-js/folkjs) - An umbrella of radically different directions that we can interface with the web.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [joshmarinacci/idealos-ui-toolkit](https://github.com/joshmarinacci/idealos-ui-toolkit) - 
 - [neuroprod/webgpu](https://github.com/neuroprod/webgpu) - WebGPU Game
 - [boltex/leojs](https://github.com/boltex/leojs) - Leo Literate Editor with Outline in Typescript
