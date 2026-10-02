@@ -977,7 +977,7 @@
 - [tybenz/vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool
 - [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [bloom-lang/bud](https://github.com/bloom-lang/bud) - Prototype Bud runtime (Bloom Under Development)
-- [rom-rb/rom](https://github.com/rom-rb/rom) - Data mapping and persistence toolkit for Ruby
+- [hanakai-rb/rom](https://github.com/hanakai-rb/rom) - Data mapping and persistence toolkit for Ruby
 - [evanphx/prattle](https://github.com/evanphx/prattle) - A simple smalltalk frontend to Rubinius
 - [CultivateLabs/storytime](https://github.com/CultivateLabs/storytime) - Storytime is a Rails 4+ CMS and blogging engine, with a core focus on content. It is built and maintained by @cultivatelabs
 - [noahgibbs/orm](https://github.com/noahgibbs/orm) - Demo ORM for GoGaRuCo
