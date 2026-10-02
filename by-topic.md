@@ -1371,7 +1371,7 @@
 
 ## nosql 
 
-- [rom-rb/rom](https://github.com/rom-rb/rom) - Data mapping and persistence toolkit for Ruby
+- [hanakai-rb/rom](https://github.com/hanakai-rb/rom) - Data mapping and persistence toolkit for Ruby
 
 ## objective-c 
 
@@ -2291,7 +2291,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [carmen-ruby/carmen](https://github.com/carmen-ruby/carmen) - A repository of geographic regions for Ruby
 - [shoes/shoes4](https://github.com/shoes/shoes4) - Shoes 4 : the next version of Shoes
-- [rom-rb/rom](https://github.com/rom-rb/rom) - Data mapping and persistence toolkit for Ruby
+- [hanakai-rb/rom](https://github.com/hanakai-rb/rom) - Data mapping and persistence toolkit for Ruby
 - [activeadmin/arbre](https://github.com/activeadmin/arbre) - An Object Oriented DOM Tree in Ruby
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [hanami/hanami](https://github.com/hanami/hanami) - A flexible framework for maintainable Ruby apps
@@ -2396,7 +2396,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
-- [rom-rb/rom](https://github.com/rom-rb/rom) - Data mapping and persistence toolkit for Ruby
+- [hanakai-rb/rom](https://github.com/hanakai-rb/rom) - Data mapping and persistence toolkit for Ruby
 
 ## sqlite 
 
