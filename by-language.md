@@ -1161,7 +1161,7 @@
 - [folk-js/folkjs](https://github.com/folk-js/folkjs) - An umbrella of radically different directions that we can interface with the web.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [joshmarinacci/idealos-ui-toolkit](https://github.com/joshmarinacci/idealos-ui-toolkit) - 
 - [neuroprod/webgpu](https://github.com/neuroprod/webgpu) - WebGPU Game
 - [boltex/leojs](https://github.com/boltex/leojs) - Leo Literate Editor with Outline in Typescript
