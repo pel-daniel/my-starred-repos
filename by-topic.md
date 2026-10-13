@@ -530,7 +530,7 @@
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [wende/elchemy](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax (compatible with Elm tooling)
-- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [elixirscript/elixirscript](https://github.com/elixirscript/elixirscript) - Converts Elixir to JavaScript
 
 ## computer-science 
@@ -969,6 +969,7 @@
 - [haskell-graphql/graphql-api](https://github.com/haskell-graphql/graphql-api) - Write type-safe GraphQL services in Haskell
 - [rgleichman/glance](https://github.com/rgleichman/glance) - A visual Haskell
 - [HeinrichApfelmus/hyper-haskell](https://github.com/HeinrichApfelmus/hyper-haskell) - The strongly hyped Haskell interpreter.
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [quchen/articles](https://github.com/quchen/articles) - Miscellaneous articles. The readme is the table of contents.
 
@@ -2333,6 +2334,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
 ## sass 
