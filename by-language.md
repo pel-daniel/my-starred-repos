@@ -381,6 +381,7 @@
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [vacationlabs/haskell-webapps](https://github.com/vacationlabs/haskell-webapps) - Proof-of-concept code for a typical webapp implemented in various Haskell libraries/frameworks
+- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [ssrihari/ragavardhini](https://github.com/ssrihari/ragavardhini) - Carnatic music synthesis in Clojure
 - [girba/themoosebook](https://github.com/girba/themoosebook) - The Moose Book
 - [jdubray/sam-samples](https://github.com/jdubray/sam-samples) - 
@@ -1270,7 +1271,6 @@
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
-- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [fibo/dflow](https://github.com/fibo/dflow) - A minimal Dataflow programming engine
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
