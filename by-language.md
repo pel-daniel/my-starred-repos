@@ -79,13 +79,13 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## C 
 
 - [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
 - [yuburoll/PISIC](https://github.com/yuburoll/PISIC) - 42-44key row staggered split keyboard with GRIN inspired layout under 102mm pcb
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [radlinskii/basilisk](https://github.com/radlinskii/basilisk) - Basilisk is an ergonomic, split, 40%, handwired, "key-welled" keyboard using WeAct RP2040 boards designed in Fusion 360
 - [radlinskii/mechabasilisk](https://github.com/radlinskii/mechabasilisk) - Ergonomic, split, 40%, handwired, "key-welled" keyboard using WeAct RP2040 boards designed in Fusion 360
 - [protieusz/Sachiel](https://github.com/protieusz/Sachiel) - Sachiel, inspired by Grumpy, 34 keys custom keyboard with 25mm trackball
@@ -381,7 +381,6 @@
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [vacationlabs/haskell-webapps](https://github.com/vacationlabs/haskell-webapps) - Proof-of-concept code for a typical webapp implemented in various Haskell libraries/frameworks
-- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [ssrihari/ragavardhini](https://github.com/ssrihari/ragavardhini) - Carnatic music synthesis in Clojure
 - [girba/themoosebook](https://github.com/girba/themoosebook) - The Moose Book
 - [jdubray/sam-samples](https://github.com/jdubray/sam-samples) - 
@@ -1271,6 +1270,7 @@
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
+- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [fibo/dflow](https://github.com/fibo/dflow) - A minimal Dataflow programming engine
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
