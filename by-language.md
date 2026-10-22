@@ -1114,7 +1114,7 @@
 
 - [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create custom iOS keyboards with Swift & SwiftUI.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rajdeep/proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
