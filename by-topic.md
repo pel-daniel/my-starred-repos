@@ -775,7 +775,7 @@
 
 ## emoji 
 
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create custom iOS keyboards with Swift & SwiftUI.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## emulator 
@@ -1017,7 +1017,7 @@
 
 - [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [manicakes/react-native-icloudstore](https://github.com/manicakes/react-native-icloudstore) - A drop in replacement for React Native's AsyncStorage API that wraps the iCloud Ubiquitous Key-Value Store.
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create custom iOS keyboards with Swift & SwiftUI.
 - [rajdeep/proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
@@ -1232,7 +1232,7 @@
 - [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create custom iOS keyboards with Swift & SwiftUI.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -2432,7 +2432,7 @@
 
 - [slsrepo/Neon](https://github.com/slsrepo/Neon) - A Swift library for efficient, flexible content-based text styling
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create custom iOS keyboards with Swift & SwiftUI.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rajdeep/proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -2444,7 +2444,7 @@
 ## swiftui 
 
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
-- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create custom iOS keyboards with Swift & SwiftUI.
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 
 ## tailwindcss 
