@@ -221,6 +221,7 @@
 
 ## Elixir 
 
+- [team-alembic/clarity](https://github.com/team-alembic/clarity) - Clarity is an interactive introspection and visualization tool for Elixir, Ash and Phoenix projects.
 - [yujonglee/canary](https://github.com/yujonglee/canary) - Algolia alternative for technical docs
 - [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
@@ -882,6 +883,7 @@
 
 ## Python 
 
+- [gaoypeng/3dcodeverse](https://github.com/gaoypeng/3dcodeverse) - Official Codebase of 3DCodeVerse
 - [jimmyhmiller/coil](https://github.com/jimmyhmiller/coil) - 
 - [JRiggles/DELPHI-kbd](https://github.com/JRiggles/DELPHI-kbd) - Dual Ergolinear Low-Profile Human Interface
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
