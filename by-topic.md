@@ -729,6 +729,7 @@
 
 ## elixir 
 
+- [team-alembic/clarity](https://github.com/team-alembic/clarity) - Clarity is an interactive introspection and visualization tool for Elixir, Ash and Phoenix projects.
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 - [zoonk/uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
@@ -1425,6 +1426,7 @@
 
 ## others 
 
+- [gaoypeng/3dcodeverse](https://github.com/gaoypeng/3dcodeverse) - Official Codebase of 3DCodeVerse
 - [alexwarth/sutherland](https://github.com/alexwarth/sutherland) - 
 - [jimmyhmiller/jim](https://github.com/jimmyhmiller/jim) - 
 - [inkandswitch/inkling](https://github.com/inkandswitch/inkling) - archived prototype for sketching dynamic models
