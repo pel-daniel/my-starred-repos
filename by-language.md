@@ -135,7 +135,7 @@
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [juzzlin/Heimer](https://github.com/juzzlin/Heimer) - Heimer is a simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 - [batman-nair/IRCIS](https://github.com/batman-nair/IRCIS) - I Run Chars I See(IRCIS) - a 2d grid based esoteric programming language.
-- [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
+- [aardappel/treesheets](https://github.com/aardappel/treesheets) - Hierarchical spreadsheet: a free-form data organizer that replaces outliners, mind maps and spreadsheets.
 - [andyfischer/circa](https://github.com/andyfischer/circa) - A programming language for live coding
 - [dimitar-asenov/Envision](https://github.com/dimitar-asenov/Envision) - A next-generation IDE that makes programming more efficient
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
