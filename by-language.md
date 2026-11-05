@@ -445,6 +445,7 @@
 - [tikimcfee/glyph3d-js](https://github.com/tikimcfee/glyph3d-js) - Glyph3D but for the webbies
 - [lemio/ReverseProjection](https://github.com/lemio/ReverseProjection) - Project using a camera
 - [jamesdiacono/Replete](https://github.com/jamesdiacono/Replete) - Run any JavaScript in any environment from any text editor.
+- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - a little engine for little games, worlds, and stories
 - [collidingScopes/arpeggiator](https://github.com/collidingScopes/arpeggiator) - Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Built with mediapipe computer vision, threejs, tonejs
 - [mbrowne/babel-dci](https://github.com/mbrowne/babel-dci) - Babel plugins for DCI programming
@@ -715,7 +716,6 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [w0lfschild/mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: Plugin manager for macOS
-- [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer) - 💻 Ability to rename desktop spaces on macOS 10.10+
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 
 ## OpenSCAD 
@@ -892,7 +892,7 @@
 - [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - [ICCV'25]DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [AllenInstitute/bmtk](https://github.com/AllenInstitute/bmtk) - Brain Modeling Toolkit
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [NativeSensors/EyeGestures](https://github.com/NativeSensors/EyeGestures) - gaze tracking software
 - [jonboh/ulp-dactyl](https://github.com/jonboh/ulp-dactyl) - A Dactyl mounting Ultra Low Profile switches :D
 - [xnuinside/codegraph](https://github.com/xnuinside/codegraph) - Static Python dependency graph with interactive HTML visualization, massive object detection, and unlinked module analysis (no code execution).
@@ -1012,7 +1012,7 @@
 ## Rust 
 
 - [jimmyhmiller/jim](https://github.com/jimmyhmiller/jim) - 
-- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 7 runtimes. Powered by Tree-sitter and Neovim themes.
+- [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 8 runtimes. Powered by Tree-sitter and Neovim themes.
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
 - [Ella-Hoeppner/easl](https://github.com/Ella-Hoeppner/easl) - Enhanced Abstraction Shader Language, a functional shader language written in Rust
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
@@ -1126,6 +1126,7 @@
 - [makerneolab/XEasyMotion](https://github.com/makerneolab/XEasyMotion) - keynav for macOS ( OS X ) , using keyboard control mouse.
 - [xcodebuild/cerebro-mac-switch-window](https://github.com/xcodebuild/cerebro-mac-switch-window) - Cerebro plugin to switch window on macOS
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+- [dado3212/spaces-renamer](https://github.com/dado3212/spaces-renamer) - 💻 Ability to rename desktop spaces on macOS 10.10+
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code.
 - [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
@@ -1151,7 +1152,6 @@
 - [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [pmndrs/timeline](https://github.com/pmndrs/timeline) - → Write composable 3D behaviors like a story.
-- [mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons) - Carefully designed icons for modern interfaces. MingCute is a simple, elegant open-source icon library built for web and mobile products.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor.
@@ -1219,7 +1219,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [kutlugsahin/smooth-dnd](https://github.com/kutlugsahin/smooth-dnd) - drag and drop library for javascript
 - [brownplt/B2T2](https://github.com/brownplt/B2T2) - The Brown Benchmark for Table Types (B2T2)
-- [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
+- [baku89/glisp](https://github.com/baku89/glisp) - A small Lisp as an interaction substrate for creative software: one program, edited as code, as blocks, or by hand on a canvas. Glisp Canvas is the vector drawing app built on it.
 - [alexobenauer/obsidian-tag-navigator](https://github.com/alexobenauer/obsidian-tag-navigator) - Cross-reference navigation through your Obsidian tags and notes
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [devhelpr/flowrunner-canvas](https://github.com/devhelpr/flowrunner-canvas) - This project is deprecated. Flowrunner-canvas is a flow based programming environment that can very easily be added to an existent frontend javascript/typescript toolchain.
