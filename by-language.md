@@ -680,6 +680,7 @@
 
 ## Markdown 
 
+- [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 
@@ -736,7 +737,6 @@
 
 - [natureoforder/pattern-language](https://github.com/natureoforder/pattern-language) - A Pattern Language and related material in modern digital, accessible form.
 - [openfootball/worldcup](https://github.com/openfootball/worldcup) - Free open public domain football datasets in the Football.TXT format for the World Cup (incl. Canada/USA/Mexico 2026, Qatar 2022, Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
-- [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [FolkComputer/gadget2](https://github.com/FolkComputer/gadget2) - 🔦 Larger gadget with batteries & commercial AnyBeam projector & stereo camera & Orange Pi 5.
 - [FolkComputer/gadget](https://github.com/FolkComputer/gadget) - 🔦
 - [prathyvsh/semantic-zoom](https://github.com/prathyvsh/semantic-zoom) - Github repository to catalogue semantic zoom interaction patterns
