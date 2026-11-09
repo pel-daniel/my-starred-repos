@@ -116,6 +116,7 @@
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [koa](#koa)
 - [language](#language)
 - [languages](#languages)
@@ -134,6 +135,7 @@
 - [material-design](#material-design)
 - [matlab](#matlab)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [music](#music)
@@ -221,6 +223,7 @@
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [web-components](#web-components)
@@ -248,7 +251,7 @@
 
 ## agent-skills 
 
-- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100x faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding
+- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - The fastest way to understand code
 
 ## agents 
 
@@ -478,7 +481,7 @@
 
 ## claude-skills 
 
-- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - Review code 100x faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a Skill for your coding
+- [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) - The fastest way to understand code
 
 ## cli 
 
@@ -1157,6 +1160,13 @@
 
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
+## knowledge-graph 
+
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
+- [Pardesco/hypernovum](https://github.com/Pardesco/hypernovum) - Agent Ops for your second brain - a 3D IDE for Obsidian built on Three.js. Visualize your vault as a code city, dispatch AI coding agents (Claude Code, Codex, Antigravity), post research quests, and w
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
+- [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
+
 ## koa 
 
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
@@ -1302,6 +1312,10 @@
 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
+
+## mcp-server 
+
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 
 ## microsoft 
 
@@ -1517,7 +1531,6 @@
 - [kaBeech/tensort](https://github.com/kaBeech/tensort) - Tunable sorting for responsive robustness and beyond
 - [unisonweb/unison-local-ui](https://github.com/unisonweb/unison-local-ui) - The Codebase UI that ships with UCM
 - [Finnitio/3dpcorne-shield-nodefree](https://github.com/Finnitio/3dpcorne-shield-nodefree) - 3dpcorne-shield with urob's zmk nodefree
-- [boltex/leojs](https://github.com/boltex/leojs) - Leo Literate Editor with Outline in Typescript
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - Electric Clojure: full-stack differential dataflow for UI
 - [NativeSensors/EyeGestures](https://github.com/NativeSensors/EyeGestures) - gaze tracking software
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1745,7 +1758,6 @@
 - [ccorcos/datalog-prototype](https://github.com/ccorcos/datalog-prototype) - A full-stack prototype of a collaborative web application backed by a Datalog-inspired database.
 - [joshmarinacci/rust-minibrowser](https://github.com/joshmarinacci/rust-minibrowser) - minibrowser written in rust
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
-- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [lamdu/hypertypes](https://github.com/lamdu/hypertypes) - Hypertypes - generic programming for heterogeneous recursive types
 - [peej/for-science-keyboard](https://github.com/peej/for-science-keyboard) - A split ergo 4x5 keyboard with 3 thumb keys where each half is smaller than the 100x100mm cheap PCB production size.
 - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them
@@ -2624,6 +2636,16 @@
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX.
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [jasonlong/geo_pattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
+
+## vscode 
+
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+- [boltex/leojs](https://github.com/boltex/leojs) - Leo Literate Editor with Outline in Typescript
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 
 ## vue 
 
