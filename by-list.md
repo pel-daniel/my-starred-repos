@@ -38,7 +38,7 @@
 
 ## drag &amp; drop ⏬
 
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow \| Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow \| Svelte Flow \| Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Ready out-of-the-box and infinitely customizable.
 
 <a name="fp"></a>
 
