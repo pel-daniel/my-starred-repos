@@ -1203,7 +1203,7 @@
 - [nvh95/jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.🛠🖼
 - [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
-- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is an open-source platform for building custom IDEs and tools for browser and desktop. It includes Theia AI, the vendor-neutral AI harness platform, and powers the AI-native Theia IDE.
 - [eclipse-sprotty/sprotty](https://github.com/eclipse-sprotty/sprotty) - A diagramming framework for the web
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
