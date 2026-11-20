@@ -79,7 +79,7 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## C 
 
@@ -534,7 +534,7 @@
 - [electronicwhisper/recursive-drawing](https://github.com/electronicwhisper/recursive-drawing) - 
 - [amyjko/Gidget](https://github.com/amyjko/Gidget) - Computing education through playful debugging
 - [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) - The original wiki rewritten as a single page application
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) - An archive of Steve Krouse's Future of Coding research notes
 - [Widdershin/stream-tree](https://github.com/Widdershin/stream-tree) - stream-tree is a way to write functions as ASCII flowcharts in JavaScript.
 - [sakamies/ranui](https://github.com/sakamies/ranui) - Foolproof HTML editor proto
