@@ -79,7 +79,6 @@
 ## Astro 
 
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## C 
 
@@ -1163,7 +1162,7 @@
 - [folk-js/folkjs](https://github.com/folk-js/folkjs) - An umbrella of radically different directions that we can interface with the web.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [joshmarinacci/idealos-ui-toolkit](https://github.com/joshmarinacci/idealos-ui-toolkit) - 
 - [neuroprod/webgpu](https://github.com/neuroprod/webgpu) - WebGPU Game
 - [boltex/leojs](https://github.com/boltex/leojs) - Leo Literate Editor with Outline in Typescript
@@ -1263,6 +1262,7 @@
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [microsoft/charticulator](https://github.com/microsoft/charticulator) - Interactive Layout-Aware Construction of Bespoke Charts
 - [opticdev/optic](https://github.com/opticdev/optic) - OpenAPI linting, diffing and testing. Optic helps prevent breaking changes, publish accurate documentation and improve the design of your APIs.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [moltenform/vipercard](https://github.com/moltenform/vipercard) - An open source rewrite of 1987's HyperCard
 - [vmware-archive/clarity](https://github.com/vmware-archive/clarity) - Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
