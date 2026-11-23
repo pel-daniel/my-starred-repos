@@ -82,6 +82,7 @@
 
 ## C 
 
+- [notaroomba/keybytes](https://github.com/notaroomba/keybytes) - A truly modular keyboard
 - [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
 - [yuburoll/PISIC](https://github.com/yuburoll/PISIC) - 42-44key row staggered split keyboard with GRIN inspired layout under 102mm pcb
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
@@ -1009,6 +1010,8 @@
 
 ## Rust 
 
+- [moznion/cccc](https://github.com/moznion/cccc) - A tool/library for measurement of "C"ognitive "C"omplexity and "C"yclomatic "C"omplexity
+- [IdealOS/m7](https://github.com/IdealOS/m7) - IdealOS Mark 7
 - [jimmyhmiller/jim](https://github.com/jimmyhmiller/jim) - 
 - [leandrocp/lumis](https://github.com/leandrocp/lumis) - One highlighter, 8 runtimes. Powered by Tree-sitter and Neovim themes.
 - [eval-exec/neomacs](https://github.com/eval-exec/neomacs) - NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility
@@ -1139,6 +1142,7 @@
 
 ## TypeScript 
 
+- [joshmarinacci/unky](https://github.com/joshmarinacci/unky) - Clean and Private Desktop Web Browser
 - [alexwarth/sutherland](https://github.com/alexwarth/sutherland) - 
 - [inkandswitch/inkling](https://github.com/inkandswitch/inkling) - archived prototype for sketching dynamic models
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
