@@ -1475,6 +1475,9 @@
 
 ## others 
 
+- [notaroomba/keybytes](https://github.com/notaroomba/keybytes) - A truly modular keyboard
+- [moznion/cccc](https://github.com/moznion/cccc) - A tool/library for measurement of "C"ognitive "C"omplexity and "C"yclomatic "C"omplexity
+- [IdealOS/m7](https://github.com/IdealOS/m7) - IdealOS Mark 7
 - [gaoypeng/3dcodeverse](https://github.com/gaoypeng/3dcodeverse) - Official Codebase of 3DCodeVerse
 - [alexwarth/sutherland](https://github.com/alexwarth/sutherland) - 
 - [jimmyhmiller/jim](https://github.com/jimmyhmiller/jim) - 
@@ -2126,6 +2129,7 @@
 
 ## privacy 
 
+- [joshmarinacci/unky](https://github.com/joshmarinacci/unky) - Clean and Private Desktop Web Browser
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
